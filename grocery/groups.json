@@ -1,0 +1,5780 @@
+[
+  {
+    "key": "10-in-pumpkin-pie",
+    "title": "10 In Pumpkin Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "647-breakfast",
+    "title": "647 Breakfast",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-cinnamon-coffee-cake",
+    "title": "Apple Cinnamon Coffee Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-turnovers",
+    "title": "Apple Turnovers",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "assorted-pies-dutch-apple",
+    "title": "Assorted Pies, Dutch Apple",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bagels-or-english-muffins",
+    "title": "Bagels or English Muffins",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bagels-english-muffins-rolls-or-donuts",
+    "title": "Bagels, English Muffins, Rolls or Donuts",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bays-english-muffin",
+    "title": "Bays English Muffin",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "between-rounds-bagels",
+    "title": "Between Rounds Bagels",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "boghosian-lavash",
+    "title": "Boghosian Lavash",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bread-or-bagels",
+    "title": "Bread or Bagels",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bread-or-rolls",
+    "title": "Bread or Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "bread-rolls-bagels-or-english-muffins",
+    "title": "Bread, Rolls, Bagels or English Muffins",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "brioche",
+    "title": "Brioche",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "brioche-buns",
+    "title": "Brioche Buns",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "buns-or-rolls",
+    "title": "Buns or Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "butterbread-or-100-whole-wheat-bread",
+    "title": "Butterbread or 100% Whole Wheat Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "chabaso-bake-at-home-baguette",
+    "title": "Chabaso Bake At Home Baguette",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "chocolate-frosted-mini-donuts",
+    "title": "Chocolate Frosted Mini Donuts",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "chocolate-whoopie-pies",
+    "title": "Chocolate Whoopie Pies",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "cinnamon-rolls-or-crescents-grands-biscuits",
+    "title": "Cinnamon Rolls or Crescents & Grands! Biscuits",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "cinnamon-sugar-donut-muffins",
+    "title": "Cinnamon Sugar Donut Muffins",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "corn-toast-r-cakes-6-pack-or-swirl-bread",
+    "title": "Corn Toast-R-Cakes 6-Pack or Swirl Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "cornbread-swirls",
+    "title": "Cornbread Swirls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-orange-puffin-muffins",
+    "title": "Cranberry Orange Puffin Muffins",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "crescent-rolls",
+    "title": "Crescent Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "croissants",
+    "title": "Croissants",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "dinner-rolls",
+    "title": "Dinner Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "donuts",
+    "title": "Donuts",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "dough-or-pie-crust",
+    "title": "Dough or Pie Crust",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "elegant-oreo-cake",
+    "title": "Elegant Oreo Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "english-muffins",
+    "title": "English Muffins",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "enriched-stuffing-bread",
+    "title": "Enriched Stuffing Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "freshly-baked-gourmet-cookie-platter",
+    "title": "Freshly Baked Gourmet Cookie Platter",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "fudgy-cookies",
+    "title": "Fudgy Cookies",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "giant-white-bread",
+    "title": "Giant White Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "gourmet-chocolate-chunk-cookies",
+    "title": "Gourmet Chocolate Chunk Cookies",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "hand-decorated-single-layer-cake",
+    "title": "Hand-Decorated Single Layer Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "hawaiian-brioche-rolls",
+    "title": "Hawaiian Brioche Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "hawaiian-dinner-rolls",
+    "title": "Hawaiian Dinner Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "hawaiian-sweet-rolls",
+    "title": "Hawaiian Sweet Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "herb-rolls",
+    "title": "Herb Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "italian-bread",
+    "title": "Italian Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "keto-bread",
+    "title": "Keto Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "loaf-cakes",
+    "title": "Loaf Cakes",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "lu-petit-cookies",
+    "title": "Lu Petit Cookies",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "lyman-orchards-apple-pie",
+    "title": "Lyman Orchards Apple Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "maple-nut-brioche-loaf",
+    "title": "Maple Nut Brioche Loaf",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "martins-sweet-party-potato-rolls",
+    "title": "Martins Sweet Party Potato Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-cornbread-loaves",
+    "title": "Mini Cornbread Loaves",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-croissants",
+    "title": "Mini Croissants",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-eclairs",
+    "title": "Mini Eclairs",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "nashoba-brook-sourdough-bread",
+    "title": "Nashoba Brook Sourdough Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-ciabatta",
+    "title": "Organic Ciabatta",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "pecan-pie",
+    "title": "Pecan Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "pie-crust-or-mini-crust",
+    "title": "Pie Crust or Mini Crust",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "pie-factory-peanut-butter-cup-pie",
+    "title": "Pie Factory Peanut Butter Cup Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "powdered-mini-donuts",
+    "title": "Powdered Mini Donuts",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-double-layer-cake",
+    "title": "Premium Double Layer Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-pies-apple",
+    "title": "Premium Pies, Apple",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-pies-strawberry-rhubarb",
+    "title": "Premium Pies, Strawberry Rhubarb",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-bagels",
+    "title": "Protein Bagels",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-english-muffins-protein-bagels-muffin-tops-or-toast-r-cakes",
+    "title": "Protein English Muffins, Protein Bagels, Muffin Tops or Toast-R-Cakes",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "puff-pastry",
+    "title": "Puff Pastry",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "pumpkin-pie",
+    "title": "Pumpkin Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "salted-caramel-brownies",
+    "title": "Salted Caramel Brownies",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "select-bread",
+    "title": "Select Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "sourdough",
+    "title": "Sourdough",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "store-baked-apple-pie",
+    "title": "Store Baked Apple Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "store-baked-butter-croissants",
+    "title": "Store Baked Butter Croissants",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "store-baked-jumbo-kaiser-rolls",
+    "title": "Store Baked Jumbo Kaiser Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-cornbread",
+    "title": "Sweet Cornbread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-dinner-potato-rolls",
+    "title": "Sweet Dinner Potato Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-potato-bread",
+    "title": "Sweet Potato Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "swirl-bread",
+    "title": "Swirl Bread",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "tiramisu-or-toasted-almond-dessert",
+    "title": "Tiramisu or Toasted Almond Dessert",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "traditional-pumpkin-pie",
+    "title": "Traditional Pumpkin Pie",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "tres-leches-1-4-sheet-cake",
+    "title": "Tres Leches 1/4 Sheet Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "triple-chocolate-creme-cake",
+    "title": "Triple Chocolate Creme Cake",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "turnovers",
+    "title": "Turnovers",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "variety-cookie-tray",
+    "title": "Variety Cookie Tray",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "yeast-dinner-rolls",
+    "title": "Yeast Dinner Rolls",
+    "category": "Bakery",
+    "replaced_by": ""
+  },
+  {
+    "key": "non-alcoholic-beer",
+    "title": "Non-Alcoholic Beer",
+    "category": "Beer/Wine",
+    "replaced_by": ""
+  },
+  {
+    "key": "100-juice",
+    "title": "100% Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "agua-fresca-juice",
+    "title": "Agua Fresca Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-eve-apple-juice",
+    "title": "Apple & Eve Apple Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-eve-cranberry-juice-or-northland-100-juice-blends-or-zero-sugar-cranberry-juice-drink",
+    "title": "Apple & Eve Cranberry Juice or Northland 100% Juice Blends or Zero Sugar Cranberry Juice Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-cider",
+    "title": "Apple Cider",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "apple-juice",
+    "title": "Apple Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "assorted-winter-coffee-bag-caramel-brulee",
+    "title": "Assorted Winter Coffee Bag, Caramel Brulee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "assorted-winter-coffee-bag-peppermint-mocha",
+    "title": "Assorted Winter Coffee Bag, Peppermint Mocha",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "beverage",
+    "title": "Beverage",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "bizzy-cold-brew-coffee",
+    "title": "Bizzy Cold Brew Coffee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "cafe-la-llave-espresso",
+    "title": "Cafe La Llave Espresso",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "celsius-12-pack",
+    "title": "Celsius 12 Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "celsius-energy-drink",
+    "title": "Celsius Energy Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coca-cola",
+    "title": "Coca-Cola",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coca-cola-or-topo-chico-multipack",
+    "title": "Coca-Cola or Topo Chico Multipack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coffee",
+    "title": "Coffee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coffee-k-cups",
+    "title": "Coffee K-Cups",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coffee-singles",
+    "title": "Coffee Singles",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coke-2-liter-and-smartwater",
+    "title": "Coke 2-Liter and Smartwater",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coke-cans-24-pack",
+    "title": "Coke Cans, 24-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coke-mini-cans-10-pack",
+    "title": "Coke Mini Cans, 10-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "coke-1-25-liter",
+    "title": "Coke, 1.25-Liter",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "cold-brew",
+    "title": "Cold Brew",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-drink",
+    "title": "Cranberry Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-juice",
+    "title": "Cranberry Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "drinks",
+    "title": "Drinks",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "energy-drink",
+    "title": "Energy Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "espresso-style-coffee-drink",
+    "title": "Espresso Style Coffee Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "flavored-water",
+    "title": "Flavored Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "frost-water",
+    "title": "Frost Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-ale",
+    "title": "Ginger Ale",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-ale-cans-24-pack",
+    "title": "Ginger Ale Cans, 24-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-ale-mini-cans-10-pack",
+    "title": "Ginger Ale Mini Cans, 10-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-ale-1-25-liter",
+    "title": "Ginger Ale, 1.25-Liter",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-ale-bottles-8-pack-or-cans-12-pack",
+    "title": "Ginger Ale, Bottles 8-Pack or Cans 12-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ginger-beer",
+    "title": "Ginger Beer",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "ground-coffee",
+    "title": "Ground Coffee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "hawaiian-punch",
+    "title": "Hawaiian Punch",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "hot-cocoa-mix",
+    "title": "Hot Cocoa Mix",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "iced-coffee",
+    "title": "Iced Coffee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "iced-tea",
+    "title": "Iced Tea",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "iced-tea-zero-sugar-drinks-or-natural-lemonade",
+    "title": "Iced Tea, Zero Sugar Drinks or Natural Lemonade",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "juice-blend",
+    "title": "Juice Blend",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "kedem-apple-or-grape-juice",
+    "title": "Kedem Apple or Grape Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "kombucha",
+    "title": "Kombucha",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "kool-aid-jammers-10-pack",
+    "title": "Kool-Aid Jammers 10 Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "lemonade-drinks",
+    "title": "Lemonade & Drinks",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "mocktails",
+    "title": "Mocktails",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "naked-juice",
+    "title": "Naked Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "natural-lemonade-or-zero-sugar-hydrate-refreshers-lemonades",
+    "title": "Natural Lemonade or Zero Sugar, Hydrate, Refreshers & Lemonades",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "nectar-sparkling-juice-cocktail-9-pack-red-grape",
+    "title": "Nectar Sparkling Juice Cocktail 9-Pack, Red Grape",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "nectar-sparkling-juice-cocktail-9-pack-white-grape",
+    "title": "Nectar Sparkling Juice Cocktail 9-Pack, White Grape",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "orange-juice",
+    "title": "Orange Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-juices",
+    "title": "Organic Juices",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-whole-bean-coffee-espresso",
+    "title": "Organic Whole Bean Coffee, Espresso",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-whole-bean-coffee-latin-america",
+    "title": "Organic Whole Bean Coffee, Latin America",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "passion-fruit-juice-drink",
+    "title": "Passion Fruit Juice Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepsi",
+    "title": "Pepsi",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepsi-bottles-8-pack-or-cans-12-pack",
+    "title": "Pepsi Bottles 8-Pack or Cans 12-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepsi-multipack",
+    "title": "Pepsi Multipack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepsi-2-liter",
+    "title": "Pepsi, 2-Liter",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "poland-spring-sparkling-water",
+    "title": "Poland Spring Sparkling Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "poland-spring-spring-water",
+    "title": "Poland Spring Spring Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "poland-spring-water",
+    "title": "Poland Spring Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "poland-spring-water-3-liter",
+    "title": "Poland Spring Water, 3-Liter",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "pom-juice",
+    "title": "Pom Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "punches",
+    "title": "Punches",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "roar-organic-water",
+    "title": "Roar Organic Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "san-pellegrino",
+    "title": "San Pellegrino",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "seltzer",
+    "title": "Seltzer",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "seltzer-1-liter",
+    "title": "Seltzer 1-Liter",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "seltzer-cans-12-pack",
+    "title": "Seltzer Cans, 12-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "seltzer-or-soda",
+    "title": "Seltzer or Soda",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "seltzer-12-pack",
+    "title": "Seltzer, 12-Pack",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "single-serve-coffee-pods",
+    "title": "Single Serve Coffee Pods",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "snapple",
+    "title": "Snapple",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "soda",
+    "title": "Soda",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sparkling-cider",
+    "title": "Sparkling Cider",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sparkling-mineral-water",
+    "title": "Sparkling Mineral Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sparkling-refresher",
+    "title": "Sparkling Refresher",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sparkling-root-beer",
+    "title": "Sparkling Root Beer",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sparkling-water",
+    "title": "Sparkling Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sports-drink",
+    "title": "Sports Drink",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "spring-water",
+    "title": "Spring Water",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-tea",
+    "title": "Sweet Tea",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "tea-bags",
+    "title": "Tea Bags",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "traditional-medicinals-tea-bags",
+    "title": "Traditional Medicinals Tea Bags",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "tropical-juices",
+    "title": "Tropical Juices",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "vegetable-juice",
+    "title": "Vegetable Juice",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "vitaminwater",
+    "title": "Vitaminwater",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "wide-awake-coffee-co-coffee",
+    "title": "Wide Awake Coffee Co. Coffee",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "zero-sugar-hydrate-refreshers-lemonades",
+    "title": "Zero Sugar, Hydrate, Refreshers & Lemonades",
+    "category": "Beverages",
+    "replaced_by": ""
+  },
+  {
+    "key": "aged-reserved-white-cheddar",
+    "title": "Aged Reserved White Cheddar",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "almond-milk",
+    "title": "Almond Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "almondmilk",
+    "title": "Almondmilk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "black-creek-cheddar",
+    "title": "Black Creek Cheddar",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "boursin-gourmet-cheese",
+    "title": "Boursin Gourmet Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "brick-cream-cheese",
+    "title": "Brick Cream Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "brie-or-camembert",
+    "title": "Brie or Camembert",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "brown-eggs",
+    "title": "Brown Eggs",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "butter",
+    "title": "Butter",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheddar-cheese",
+    "title": "Cheddar Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-bakes",
+    "title": "Cheese Bakes",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-cubes",
+    "title": "Cheese Cubes",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-singles",
+    "title": "Cheese Singles",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-wedge",
+    "title": "Cheese Wedge",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-or-turkey-bacon",
+    "title": "Chicken or Turkey Bacon",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "chunk-cheese",
+    "title": "Chunk Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "coffee-creamer",
+    "title": "Coffee Creamer",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cold-foam-creamer",
+    "title": "Cold Foam Creamer",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cottage-cheese",
+    "title": "Cottage Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cracker-barrel-chunk-cheese",
+    "title": "Cracker Barrel Chunk Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cracker-barrel-cracker-cut-cheese",
+    "title": "Cracker Barrel Cracker Cut Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cracker-cuts",
+    "title": "Cracker Cuts",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cream-cheese",
+    "title": "Cream Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "cream-cheese-spread",
+    "title": "Cream Cheese Spread",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "creamer",
+    "title": "Creamer",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "creamer-holiday-nog-or-barista-blend-oatmilk",
+    "title": "Creamer & Holiday Nog or Barista Blend Oatmilk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "creamers",
+    "title": "Creamers",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "dairy-skyr-tub",
+    "title": "Dairy Skyr Tub",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "dairy-whipped-topping",
+    "title": "Dairy Whipped Topping",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "dairy-free-half-half",
+    "title": "Dairy-Free Half & Half",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "egg-nog",
+    "title": "Egg Nog",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "eggs",
+    "title": "Eggs",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "evaporated-milk",
+    "title": "Evaporated Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "extra-creamy-whipped-dairy-topping",
+    "title": "Extra Creamy Whipped Dairy Topping",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "flavored-creamers",
+    "title": "Flavored Creamers",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "flip-or-high-protein-yogurt",
+    "title": "Flip or High Protein Yogurt",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "flips-creations-greek-yogurt",
+    "title": "Flips & Creations Greek Yogurt",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-italian-cheese",
+    "title": "Fresh Italian Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "fruit-on-the-bottom-variety-pack",
+    "title": "Fruit On the Bottom Variety Pack",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "giovanni-rana-fresh-filled-pasta",
+    "title": "Giovanni Rana Fresh Filled Pasta",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "grated-cheese",
+    "title": "Grated Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "grated-parmesan",
+    "title": "Grated Parmesan",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "greek-yogurt",
+    "title": "Greek Yogurt",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "greek-yogurt-or-yogurt",
+    "title": "Greek Yogurt or Yogurt",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "half-half",
+    "title": "Half & Half",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "heavy-cream",
+    "title": "Heavy Cream",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-nog-horchata-creamer-or-barista-blend-oatmilk-cold-brew-iced-coffee",
+    "title": "Holiday Nog, Horchata & Creamer or Barista Blend Oatmilk & Cold Brew Iced Coffee",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "i-can-t-believe-it-s-not-butter",
+    "title": "I Can't Believe It's Not Butter",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "just-like-cream-cheese-block-just-like-shreds-slices",
+    "title": "Just Like Cream Cheese Block, Just Like Shreds & Slices",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "kefir-smoothies",
+    "title": "Kefir Smoothies",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "kerrygold",
+    "title": "Kerrygold",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "lactose-free-2-reduced-fat-milk",
+    "title": "Lactose Free 2% Reduced Fat Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "lactose-free-milk",
+    "title": "Lactose Free Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "mascarpone",
+    "title": "Mascarpone",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "maytag-gourmet-spread",
+    "title": "Maytag Gourmet Spread",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "milk",
+    "title": "Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "natural-cheese-slices",
+    "title": "Natural Cheese Slices",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "oatmilk",
+    "title": "Oatmilk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "oatmilk-or-skim-plus-milk",
+    "title": "Oatmilk or Skim Plus Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-almond-creamer",
+    "title": "Organic Almond Creamer",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-coffee-creamer-organic-milk-or-farm-organic-milk",
+    "title": "Organic Coffee Creamer, Organic Milk or Farm Organic Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-creamer",
+    "title": "Organic Creamer",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-milk-or-skim-plus-milk",
+    "title": "Organic Milk or Skim Plus Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-pouch-multipack",
+    "title": "Organic Pouch Multipack",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "overnight-oats",
+    "title": "Overnight Oats",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "parmesan-wedge",
+    "title": "Parmesan Wedge",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "pickles",
+    "title": "Pickles",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "plant-butter",
+    "title": "Plant Butter",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-pudding",
+    "title": "Protein Pudding",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-smoothie-blend",
+    "title": "Protein Smoothie Blend",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-soy-milk",
+    "title": "Protein Soy Milk",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "pudding",
+    "title": "Pudding",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "reddi-wip",
+    "title": "Reddi Wip",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "ricotta-or-parmesan-cheese",
+    "title": "Ricotta or Parmesan Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "shredded-cheese",
+    "title": "Shredded Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "shredded-or-chunk-cheese",
+    "title": "Shredded or Chunk Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "singles",
+    "title": "Singles",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "skyr",
+    "title": "Skyr",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "soft-cream-cheese",
+    "title": "Soft Cream Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "sour-cream",
+    "title": "Sour Cream",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "sour-cream-dip-or-squeeze-sour-cream",
+    "title": "Sour Cream Dip or Squeeze Sour Cream",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "spread",
+    "title": "Spread",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "spread-or-i-can-t-believe-it-s-not-butter",
+    "title": "Spread or I Can't Believe It's Not Butter!",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "string-cheese",
+    "title": "String Cheese",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "triple-zero-yogurt-icelandic-provisions-skyr-yogurt-greek-yogurt-creamy-dream",
+    "title": "Triple Zero Yogurt, Icelandic Provisions Skyr Yogurt, Greek Yogurt & Creamy Dream",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "vermont-creamery-goat-cheese-log",
+    "title": "Vermont Creamery Goat Cheese Log",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "whipped-cream",
+    "title": "Whipped Cream",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "whipped-dairy-topping",
+    "title": "Whipped Dairy Topping",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "yogurt",
+    "title": "Yogurt",
+    "category": "Dairy",
+    "replaced_by": ""
+  },
+  {
+    "key": "all-natural-or-low-sodium-turkey-breast",
+    "title": "All Natural or Low Sodium Turkey Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "american-cheese",
+    "title": "American Cheese",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "bellavitano-wedges",
+    "title": "BellaVitano Wedges",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "beretta-sliced-prosciutto",
+    "title": "Beretta Sliced Prosciutto",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "bologna",
+    "title": "Bologna",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-tray",
+    "title": "Cheese Tray",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheese-wheel",
+    "title": "Cheese Wheel",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-salad",
+    "title": "Chicken Salad",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "cracker-cut-cheese",
+    "title": "Cracker Cut Cheese",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-jalape-o-dip",
+    "title": "Cranberry Jalapeño Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "deli-fresh-olives",
+    "title": "Deli Fresh Olives",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "dill-veggie-dip",
+    "title": "Dill Veggie Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "dip",
+    "title": "Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "domestic-ham",
+    "title": "Domestic Ham",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-mozzarella-logs-specialty-triple-creme-crostini-artisan-crackers",
+    "title": "Fresh Mozzarella Logs, Specialty Triple Creme, Crostini Artisan Crackers",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "genoa-salami-provolone-domestic-swiss-chicken-breast-ham-off-the-bone-muenster-sharp-cheddars",
+    "title": "Genoa Salami, Provolone, Domestic Swiss, Chicken Breast, Ham Off the Bone, Muenster, Sharp Cheddars",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "goat-cheese-dip",
+    "title": "Goat Cheese Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "golden-roasted-chicken-breast",
+    "title": "Golden Roasted Chicken Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "greek-feta-salad",
+    "title": "Greek Feta Salad",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "hommus",
+    "title": "Hommus",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "honey-tavern-ham-chicken-breast-turkey-breast",
+    "title": "Honey Tavern Ham, Chicken Breast, Turkey Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "hot-honey-dip",
+    "title": "Hot Honey Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "hummus",
+    "title": "Hummus",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "imported-swiss-mozzarella-new-york-state-cheddar",
+    "title": "Imported Swiss, Mozzarella, New York State Cheddar",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "jalapeno-artichoke-dip",
+    "title": "Jalapeno Artichoke Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "maple-glazed-honey-coat-ham",
+    "title": "Maple Glazed Honey Coat Ham",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-cheese-tray",
+    "title": "Mini Cheese Tray",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "mozzarella",
+    "title": "Mozzarella",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "muenster-cheese",
+    "title": "Muenster Cheese",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "oven-browned-turkey-breast",
+    "title": "Oven Browned Turkey Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "oven-roasted-chicken-breast",
+    "title": "Oven Roasted Chicken Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "parmesan-cups",
+    "title": "Parmesan Cups",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pesto",
+    "title": "Pesto",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pickled-veggies",
+    "title": "Pickled Veggies",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pimento-dips-bacon",
+    "title": "Pimento Dips, Bacon",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pimento-dips-smoked-gouda",
+    "title": "Pimento Dips, Smoked Gouda",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pita-chips",
+    "title": "Pita Chips",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pitted-green-olives",
+    "title": "Pitted Green Olives",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "pitted-kalamata-olives",
+    "title": "Pitted Kalamata Olives",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-lunch-meat",
+    "title": "Premium Lunch Meat",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "ricotta",
+    "title": "Ricotta",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "rotisserie-chicken-salad",
+    "title": "Rotisserie Chicken Salad",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "salami",
+    "title": "Salami",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "salchichon",
+    "title": "Salchichon",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "salsa",
+    "title": "Salsa",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "sausage-bites",
+    "title": "Sausage Bites",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "sausage-snack-sticks",
+    "title": "Sausage Snack Sticks",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "shortcuts",
+    "title": "Shortcuts",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "spicy-salami",
+    "title": "Spicy Salami",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "spinach-artichoke-dip",
+    "title": "Spinach Artichoke Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "spinach-dip",
+    "title": "Spinach Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-slice-dinner-ham",
+    "title": "Sweet Slice Dinner Ham",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-breast",
+    "title": "Turkey Breast",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "veggie-dip",
+    "title": "Veggie Dip",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "vermont-cheddar",
+    "title": "Vermont Cheddar",
+    "category": "Deli",
+    "replaced_by": ""
+  },
+  {
+    "key": "2-pack-empanadas",
+    "title": "2-Pack Empanadas",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "3-layer-cake-or-turnovers",
+    "title": "3-Layer Cake or Turnovers",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "4-ct-breakfast-sandwiches",
+    "title": "4-Ct. Breakfast Sandwiches",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "9-slice-pizza",
+    "title": "9-Slice Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "alfredo-aiello-multiserve-entree",
+    "title": "Alfredo Aiello Multiserve Entree",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "appetizers",
+    "title": "Appetizers",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "applegate-organic-grilled-strips",
+    "title": "Applegate Organic Grilled Strips",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "bagel-bites",
+    "title": "Bagel Bites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-franks-in-puff-pastry",
+    "title": "Beef Franks In Puff Pastry",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "bread",
+    "title": "Bread",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "breaded-chicken",
+    "title": "Breaded Chicken",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-bowl-or-egg-bites",
+    "title": "Breakfast Bowl or Egg Bites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-bowls",
+    "title": "Breakfast Bowls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-sandwiches",
+    "title": "Breakfast Sandwiches",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "broccoli-florets",
+    "title": "Broccoli Florets",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cafe-steamers-or-complete-dinners-or-dinner-bowls",
+    "title": "Cafe Steamers or Complete Dinners or Dinner Bowls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "chef-ramsay-dinners",
+    "title": "Chef Ramsay Dinners",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-alfredo",
+    "title": "Chicken Alfredo",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-tikka-masala",
+    "title": "Chicken Tikka Masala",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cinnamon-french-toast",
+    "title": "Cinnamon French Toast",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "classic-entrees-lean-cuisine-signature-or-lean-cuisine-classic",
+    "title": "Classic Entrees, Lean Cuisine Signature or Lean Cuisine Classic",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "classic-favorites",
+    "title": "Classic Favorites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookies-n-custard",
+    "title": "Cookies 'n Custard",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cool-whip",
+    "title": "Cool Whip",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cornbread-skillets-hot-honey",
+    "title": "Cornbread Skillets, Hot Honey",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cornbread-skillets-three-cheese",
+    "title": "Cornbread Skillets, Three Cheese",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "creamery-ice-cream-or-blue-bunny-twist",
+    "title": "Creamery Ice Cream or Blue Bunny Twist",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "dairy-free-frozen-dessert-or-novelties",
+    "title": "Dairy-Free Frozen Dessert or Novelties",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "deep-dish-singles-french-bread-pizza",
+    "title": "Deep Dish Singles & French Bread Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "dessert-cups-or-hand-pies",
+    "title": "Dessert Cups or Hand Pies",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "detroit-style-cheese-pizza",
+    "title": "Detroit Style Cheese Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "digiorno-pizza",
+    "title": "DiGiorno Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "digiorno-pizza-tombstone-pizza-or-hot-pockets",
+    "title": "DiGiorno Pizza, Tombstone Pizza or Hot Pockets",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "dorot-gardens-herbs",
+    "title": "Dorot Gardens Herbs",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "double-coated-caramel",
+    "title": "Double Coated, Caramel",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "double-coated-raspberry",
+    "title": "Double Coated, Raspberry",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "drumstick-cones-or-crunch-bars",
+    "title": "Drumstick Cones or Crunch Bars",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "enchiladas-all-natural-bowls-or-whole-meals",
+    "title": "Enchiladas, All Natural Bowls or Whole Meals",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "entrees",
+    "title": "Entrees",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "entr-e",
+    "title": "Entrée",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "entr-e-or-momo-dumplings",
+    "title": "Entrée or Momo Dumplings",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-entr-e",
+    "title": "Family Entrée",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-size-meal",
+    "title": "Family Size Meal",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "fatboy-ice-cream-novelties",
+    "title": "FatBoy Ice Cream Novelties",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "french-toast-sticks-or-bites",
+    "title": "French Toast Sticks or Bites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "fries",
+    "title": "Fries",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-butternut-squash",
+    "title": "Frozen Butternut Squash",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-entrees-or-chunky-bowls",
+    "title": "Frozen Entrees or Chunky Bowls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-fruit",
+    "title": "Frozen Fruit",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-green-beans",
+    "title": "Frozen Green Beans",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-kimbap-kimchi-and-tofu",
+    "title": "Frozen Kimbap, Kimchi and Tofu",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-potatoes",
+    "title": "Frozen Potatoes",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-vegetables",
+    "title": "Frozen Vegetables",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "garlic-bread",
+    "title": "Garlic Bread",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "garlic-texas-cheese-toast-or-garlic-knots",
+    "title": "Garlic Texas & Cheese Toast or Garlic Knots",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "hot-pockets",
+    "title": "Hot Pockets",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "ice-cream",
+    "title": "Ice Cream",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "ice-cream-frozen-dairy-dessert",
+    "title": "Ice Cream & Frozen Dairy Dessert",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "ice-cream-or-frozen-dairy-dessert",
+    "title": "Ice Cream or Frozen Dairy Dessert",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "ice-cream-or-ice-cream-bars",
+    "title": "Ice Cream or Ice Cream Bars",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "jus-rol-puff-pastry",
+    "title": "Jus-Rol Puff Pastry",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "large-size-meals-or-kanzen-meal",
+    "title": "Large Size Meals or Kanzen Meal",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "lean-cuisine-single-serve-entr-e",
+    "title": "Lean Cuisine Single Serve Entrée",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mccain-french-fries",
+    "title": "McCain French Fries",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "meatless-products",
+    "title": "Meatless Products",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-cream-puffs",
+    "title": "Mini Cream Puffs",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-wontons-chicken",
+    "title": "Mini Wontons, Chicken",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mozzarella-sticks",
+    "title": "Mozzarella Sticks",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mrs-smith-s-pie",
+    "title": "Mrs. Smith's Pie",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "mrs-t-s-pierogies",
+    "title": "Mrs. T's Pierogies",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "nestle-drumsticks",
+    "title": "Nestle Drumsticks",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "novelties",
+    "title": "Novelties",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pancakes-or-waffles",
+    "title": "Pancakes or Waffles",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "panko-patties",
+    "title": "Panko Patties",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepperoni-detroit-style-pizza",
+    "title": "Pepperoni Detroit Style Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "phyllo-bites",
+    "title": "Phyllo Bites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pictsweet-farms-favorites",
+    "title": "PictSweet Farms Favorites",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pie-shells",
+    "title": "Pie Shells",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pies",
+    "title": "Pies",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pizza",
+    "title": "Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pizza-rolls",
+    "title": "Pizza Rolls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pork-and-vegetable-mini-wontons",
+    "title": "Pork and Vegetable Mini Wontons",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pot-pies",
+    "title": "Pot Pies",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "potstickers",
+    "title": "Potstickers",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "pound-cake-or-pie",
+    "title": "Pound Cake or Pie",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "power-or-thick-fluffy-waffles-flapjacks-french-toast-sticks-or-breakfast-sandwiches",
+    "title": "Power or Thick & Fluffy Waffles, Flapjacks, French Toast Sticks or Breakfast Sandwiches",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-whole-vegetables-blends",
+    "title": "Premium Whole Vegetables & Blends",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "ravioli",
+    "title": "Ravioli",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-raspberries-or-frozen-fruit",
+    "title": "Red Raspberries or (frozen Fruit)",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "sauced-seasoned-veggies-or-riced-cauliflower",
+    "title": "Sauced & Seasoned Veggies or Riced Cauliflower",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "scott-jon-s-seafood-bowl",
+    "title": "Scott & Jon's Seafood Bowl",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "seviroli-tortellini-or-seviroli-ravioli",
+    "title": "Seviroli Tortellini or Seviroli Ravioli",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "single-serve-bowls-or-mega-xl-dinners",
+    "title": "Single Serve Bowls or Mega XL Dinners",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "single-serve-entr-e",
+    "title": "Single Serve Entrée",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "single-serve-sundaes",
+    "title": "Single Serve Sundaes",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "sister-schubert-s-dinner-yeast-rolls",
+    "title": "Sister Schubert's Dinner Yeast Rolls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "snickerdoodle-ice-cream",
+    "title": "Snickerdoodle Ice Cream",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "spicy-tuna-frozen-kimbap",
+    "title": "Spicy Tuna Frozen Kimbap",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "spring-rolls",
+    "title": "Spring Rolls",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "stuffed-chicken-breast",
+    "title": "Stuffed Chicken Breast",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "sundae-cup",
+    "title": "Sundae Cup",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-sour-chicken",
+    "title": "Sweet & Sour Chicken",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-moments-cobbler",
+    "title": "Sweet Moments Cobbler",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "texas-tamale-co-gluten-free-gourmet-chicken-tamales",
+    "title": "Texas Tamale Co. Gluten Free Gourmet Chicken Tamales",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "texas-tamale-co-gluten-free-gourmet-hatch-green-chile-tamales",
+    "title": "Texas Tamale Co. Gluten Free Gourmet Hatch Green Chile Tamales",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "toaster-scrambles-or-strudel",
+    "title": "Toaster Scrambles or Strudel",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "toaster-strudel",
+    "title": "Toaster Strudel",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "topping",
+    "title": "Topping",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "tru-fru",
+    "title": "Tru Fru",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "tru-fru-chocolate-covered-fruit",
+    "title": "Tru Fru Chocolate Covered Fruit",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "vegetable-beans-brown-rice-or-quinoa",
+    "title": "Vegetable, Beans, Brown Rice or Quinoa",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "virtuoso-pizza",
+    "title": "Virtuoso Pizza",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "waffles",
+    "title": "Waffles",
+    "category": "Frozen",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookies-n-cream-protein-bar-4-count",
+    "title": "Cookies 'N Cream Protein Bar, 4 Count",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "glucerna-nutritional-drinks",
+    "title": "Glucerna Nutritional Drinks",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "gluten-free-golden-vanilla-cream-protein-bar-4-count",
+    "title": "Gluten Free Golden Vanilla Cream Protein Bar, 4 Count",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "nutritional-drinks",
+    "title": "Nutritional Drinks",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "premier-protein",
+    "title": "Premier Protein",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-drink",
+    "title": "Protein Drink",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "vital-proteins-collagen-sparkling-water",
+    "title": "Vital Proteins Collagen Sparkling Water",
+    "category": "Health/Beauty",
+    "replaced_by": ""
+  },
+  {
+    "key": "73-lean-ground-beef",
+    "title": "73% Lean Ground Beef",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "80-lean-ground-beef",
+    "title": "80% Lean Ground Beef",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "93-lean-ground-beef",
+    "title": "93% Lean Ground Beef",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "all-natural-sausage",
+    "title": "All Natural Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "all-natural-sausage-roll",
+    "title": "All Natural Sausage Roll",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "american-wagyu-boneless-ribeyes-strips",
+    "title": "American Wagyu Boneless Ribeyes / Strips",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "angus-beef-porterhouse-steak",
+    "title": "Angus Beef Porterhouse Steak",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "angus-beef-rib-roast",
+    "title": "Angus Beef Rib Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "angus-beef-sirloin-spoon-roast",
+    "title": "Angus Beef Sirloin Spoon Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "bacon",
+    "title": "Bacon",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-cheek-meat",
+    "title": "Beef Cheek Meat",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-chuck-steak",
+    "title": "Beef Chuck Steak",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-franks",
+    "title": "Beef Franks",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-sliders",
+    "title": "Beef Sliders",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "black-angus-roasts",
+    "title": "Black Angus Roasts",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "bone-in-ribeye-roast",
+    "title": "Bone In Ribeye Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "bone-in-lamb-loin-chop",
+    "title": "Bone-In Lamb Loin Chop",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "boneless-fresh-picnic",
+    "title": "Boneless Fresh Picnic",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "boneless-half-butt-pork-roast",
+    "title": "Boneless Half Butt Pork Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "boneless-pork-loin-combo-pack",
+    "title": "Boneless Pork Loin Combo Pack",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "bottom-round-roast-usda-choice-boneless",
+    "title": "Bottom Round Roast, USDA Choice, Boneless",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "brats-or-italian-dinner-sausage",
+    "title": "Brats or Italian Dinner Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-sausage",
+    "title": "Breakfast Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-sausage-patties-or-links",
+    "title": "Breakfast Sausage Patties or Links",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "brown-n-serve-sausage",
+    "title": "Brown 'N Serve Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken",
+    "title": "Chicken",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-breast",
+    "title": "Chicken Breast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-drumsticks",
+    "title": "Chicken Drumsticks",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-meatballs",
+    "title": "Chicken Meatballs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-nuggets",
+    "title": "Chicken Nuggets",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-sausage-meat",
+    "title": "Chicken Sausage Meat",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-thighs",
+    "title": "Chicken Thighs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-wings",
+    "title": "Chicken Wings",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chili-meal-deal-bowl-basket-85-lean-ground-turkey",
+    "title": "Chili Meal Deal - Bowl & Basket 85% Lean Ground Turkey",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "chuck-steak-bottom-round-roast-beef-back-ribs-and-85-lean-ground-beef",
+    "title": "Chuck Steak, Bottom Round Roast, Beef Back Ribs, and 85% Lean Ground Beef",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "cocktail-beef-franks",
+    "title": "Cocktail Beef Franks",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "country-style-pork-ribs",
+    "title": "Country Style Pork Ribs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "cracked-pepper-turkey-breast-tenderloins",
+    "title": "Cracked Pepper Turkey Breast Tenderloins",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-sized-slow-cooker-beef-roast-with-vegetables",
+    "title": "Family Sized Slow Cooker Beef Roast with Vegetables",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "flat-iron-steak",
+    "title": "Flat Iron Steak",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-poultry",
+    "title": "Fresh Poultry",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-turkey",
+    "title": "Fresh Turkey",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-turkey",
+    "title": "Frozen Turkey",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-whole-turkey",
+    "title": "Frozen Whole Turkey",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "golden-brown-links",
+    "title": "Golden Brown Links",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "grass-fed-chuck-roast",
+    "title": "Grass Fed Chuck Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "grass-fed-frenched-rack-of-lamb",
+    "title": "Grass Fed Frenched Rack of Lamb",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "grass-fed-stew-meat",
+    "title": "Grass Fed Stew Meat",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "ground-chicken",
+    "title": "Ground Chicken",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "ground-lamb",
+    "title": "Ground Lamb",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "ground-veal",
+    "title": "Ground Veal",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "half-pork-loin",
+    "title": "Half Pork Loin",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "ham-shank-or-butt-portion",
+    "title": "Ham Shank or Butt Portion",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "ham-steak",
+    "title": "Ham Steak",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "hillshire-farms-turkey-kielbasa",
+    "title": "Hillshire Farms Turkey Kielbasa",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "italian-meatballs",
+    "title": "Italian Meatballs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "italian-sausage",
+    "title": "Italian Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "jamestown-brand-sausage",
+    "title": "Jamestown Brand Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "kielbasa",
+    "title": "Kielbasa",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "meatballs",
+    "title": "Meatballs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "meatloaf-mix-fresh-beef-veal-pork",
+    "title": "Meatloaf Mix, Fresh, Beef, Veal & Pork",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-flank-steak",
+    "title": "Organic Flank Steak",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-grass-fed-85-lean-ground-beef",
+    "title": "Organic Grass Fed 85% Lean Ground Beef",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-turkey-burgers",
+    "title": "Organic Turkey Burgers",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "outside-skirt-steak-usda-choice",
+    "title": "Outside Skirt Steak, USDA Choice",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "patties",
+    "title": "Patties",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "pepperoni",
+    "title": "Pepperoni",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "pork-chops",
+    "title": "Pork Chops",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "portion-ham",
+    "title": "Portion Ham",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "prairie-fresh-marinated-pork-tenderloin",
+    "title": "Prairie Fresh Marinated Pork Tenderloin",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "prime-boneless-center-cut-loin-chop-combo",
+    "title": "Prime Boneless Center Cut Loin/Chop Combo",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "prime-bottom-round-roast",
+    "title": "Prime Bottom Round Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "prime-top-round-london-broil",
+    "title": "Prime Top Round London Broil",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "recipe-essentials-sausage",
+    "title": "Recipe Essentials Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "rib-end-bone-in-chops",
+    "title": "Rib End Bone-in Chops",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "roll-sausage",
+    "title": "Roll Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "rotisserie-turkey-tenderloin",
+    "title": "Rotisserie Turkey Tenderloin",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "sausage",
+    "title": "Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "sausage-links",
+    "title": "Sausage Links",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "sausage-rolls",
+    "title": "Sausage Rolls",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "seasoned-beef-chuck-for-birria",
+    "title": "Seasoned Beef Chuck for Birria",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "shady-brook-farms-turkeys",
+    "title": "Shady Brook Farms Turkeys",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "sliced-beef-bacon",
+    "title": "Sliced Beef Bacon",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "sliced-quarter-hams",
+    "title": "Sliced Quarter Hams",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "smoked-ham-butt-portion",
+    "title": "Smoked Ham Butt Portion",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "smoked-ham-shank-portion",
+    "title": "Smoked Ham Shank Portion",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "smoked-sausage",
+    "title": "Smoked Sausage",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "smoked-sausage-kielbasa",
+    "title": "Smoked Sausage & Kielbasa",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "spiral-sliced-half-ham",
+    "title": "Spiral Sliced Half Ham",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "spiral-sliced-ham",
+    "title": "Spiral Sliced Ham",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "st-louis-style-ribs",
+    "title": "St. Louis Style Ribs",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "steakhouse-premium-cocktail-sauce",
+    "title": "Steakhouse Premium Cocktail Sauce",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "swift-frenched-rack-of-lamb",
+    "title": "Swift Frenched Rack of Lamb",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "swift-leg-of-lamb",
+    "title": "Swift Leg of Lamb",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "top-round-london-broil",
+    "title": "Top Round London Broil",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "top-sirloin-coulotte",
+    "title": "Top Sirloin Coulotte",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-bacon",
+    "title": "Turkey Bacon",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-breast-tenderloins",
+    "title": "Turkey Breast Tenderloins",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "twin-pack-ham-steaks",
+    "title": "Twin Pack Ham Steaks",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "usda-choice-beef-tenderloin",
+    "title": "USDA Choice Beef Tenderloin",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "usda-choice-bourbon-and-brown-sugar-seasoned-chuck-roast",
+    "title": "USDA Choice Bourbon and Brown Sugar Seasoned Chuck Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "usda-choice-steakhouse-seasoned-chuck-roast",
+    "title": "USDA Choice Steakhouse Seasoned Chuck Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "veal-stew",
+    "title": "Veal Stew",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-chicken",
+    "title": "Whole Chicken",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-duck-per-lb",
+    "title": "Whole Duck, Per Lb",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-pork-picnic-roast",
+    "title": "Whole Pork Picnic Roast",
+    "category": "Meat",
+    "replaced_by": ""
+  },
+  {
+    "key": "4-pack",
+    "title": "4-Pack",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "adobo-seasoning",
+    "title": "Adobo Seasoning",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "all-purpose-flour",
+    "title": "All Purpose Flour",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "almonds",
+    "title": "Almonds",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "applesauce",
+    "title": "Applesauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "aunt-nellie-s-onions",
+    "title": "Aunt Nellie's Onions",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "badia-cinnamon-sticks",
+    "title": "Badia Cinnamon Sticks",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "baked-beans",
+    "title": "Baked Beans",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "baking-chips",
+    "title": "Baking Chips",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "baking-morsels",
+    "title": "Baking Morsels",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "baking-nuts",
+    "title": "Baking Nuts",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "beans",
+    "title": "Beans",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "beef-stew",
+    "title": "Beef Stew",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "belgian-seashells",
+    "title": "Belgian Seashells",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "black-pitted-olives",
+    "title": "Black Pitted Olives",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "blackstrap-organic-molasses",
+    "title": "Blackstrap Organic Molasses",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "blue-cookie-icing",
+    "title": "Blue Cookie Icing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "bold-stock",
+    "title": "Bold Stock",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "bone-broth",
+    "title": "Bone Broth",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "bowl-bistro-protein-or-noodle-cup",
+    "title": "Bowl, Bistro, Protein or Noodle Cup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "bread-crumbs",
+    "title": "Bread Crumbs",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "broth",
+    "title": "Broth",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "broth-or-stock",
+    "title": "Broth or Stock",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "brownie-mix",
+    "title": "Brownie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "brownie-or-cake-mix",
+    "title": "Brownie or Cake Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cake-mix",
+    "title": "Cake Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cake-or-brownie-mix",
+    "title": "Cake or Brownie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "canned-pumpkin",
+    "title": "Canned Pumpkin",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "canned-tomatoes",
+    "title": "Canned Tomatoes",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "canola-or-vegetable-oil",
+    "title": "Canola or Vegetable Oil",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cereal",
+    "title": "Cereal",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cereal-cup",
+    "title": "Cereal Cup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cereal-large-size",
+    "title": "Cereal Large Size",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cereal-medium-size",
+    "title": "Cereal Medium Size",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheerios-protein-cereal",
+    "title": "Cheerios Protein Cereal",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-broth",
+    "title": "Chicken Broth",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chopped-pecans",
+    "title": "Chopped Pecans",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chunk-chicken",
+    "title": "Chunk Chicken",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chunk-light-tuna",
+    "title": "Chunk Light Tuna",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chunky-bowl",
+    "title": "Chunky Bowl",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "chunky-soup",
+    "title": "Chunky Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "coconut-milk",
+    "title": "Coconut Milk",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "condensed-cream-of-mushroom-soup",
+    "title": "Condensed Cream of Mushroom Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "condensed-eating-soup-or-condensed-soup",
+    "title": "Condensed Eating Soup or Condensed Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "condensed-soup",
+    "title": "Condensed Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "confectioners-sugar",
+    "title": "Confectioners Sugar",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookie-dough",
+    "title": "Cookie Dough",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookie-icing",
+    "title": "Cookie Icing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookie-mix",
+    "title": "Cookie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "craisins",
+    "title": "Craisins",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-sauce",
+    "title": "Cranberry Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberry-trail-mix",
+    "title": "Cranberry Trail Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cream-of-chicken-or-mushroom-soup",
+    "title": "Cream of Chicken or Mushroom Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "cream-of-coconut",
+    "title": "Cream of Coconut",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "crispy-fried-onions",
+    "title": "Crispy Fried Onions",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "crocker-brownie-mix",
+    "title": "Crocker Brownie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "deluxe-original-cheddar-mac-cheese",
+    "title": "Deluxe Original Cheddar Mac & Cheese",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "divina-olives",
+    "title": "Divina Olives",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "donuts-or-family-pack-cakes",
+    "title": "Donuts or Family Pack Cakes",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "dove-promises",
+    "title": "Dove Promises",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "dried-cranberries",
+    "title": "Dried Cranberries",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "dry-mac-cheese-thrilled-cheese",
+    "title": "Dry Mac & Cheese, Thrilled Cheese",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "dry-mac-cheese-twist-my-parm",
+    "title": "Dry Mac & Cheese, Twist My Parm",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "dry-pasta",
+    "title": "Dry Pasta",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "eagle-sweetened-condensed-milk",
+    "title": "Eagle Sweetened Condensed Milk",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "egg-noodles",
+    "title": "Egg Noodles",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "enjoy-life-baking-chips",
+    "title": "Enjoy Life Baking Chips",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "evaporated-milk-or-pumpkin",
+    "title": "Evaporated Milk or Pumpkin",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-pack-flour-tortillas",
+    "title": "Family Pack Flour Tortillas",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-size-mash-roasted-garlic",
+    "title": "Family Size Mash, Roasted Garlic",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-size-mashed-pouch-buttery",
+    "title": "Family Size Mashed Pouch, Buttery",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "favorites-cake-mix",
+    "title": "Favorites Cake Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "filled-pasta",
+    "title": "Filled Pasta",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "flour",
+    "title": "Flour",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "french-fried-onions",
+    "title": "French Fried Onions",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "fruit-bowls",
+    "title": "Fruit Bowls",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "galil-organic-roasted-chestnuts",
+    "title": "Galil Organic Roasted Chestnuts",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "gel-food-color-4-count",
+    "title": "Gel Food Color - 4 Count",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "gelatin-pudding-mix",
+    "title": "Gelatin & Pudding Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "gluten-free-stuffing",
+    "title": "Gluten-Free Stuffing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "granulated-sugar",
+    "title": "Granulated Sugar",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "grape-jelly",
+    "title": "Grape Jelly",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "gravy",
+    "title": "Gravy",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "gravy-or-stuffing",
+    "title": "Gravy or Stuffing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-cookie-icing",
+    "title": "Green Cookie Icing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-pigeon-peas",
+    "title": "Green Pigeon Peas",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-sugar-sprinkles",
+    "title": "Green Sugar Sprinkles",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "grey-poupon",
+    "title": "Grey Poupon",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "grower-direct-shelled-walnuts",
+    "title": "Grower Direct Shelled Walnuts",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "hash",
+    "title": "Hash",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "homestyle-turkey-gravy",
+    "title": "Homestyle Turkey Gravy",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "honey-peppers",
+    "title": "Honey Peppers",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "instant-bouillon-cubes",
+    "title": "Instant Bouillon Cubes",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "instant-oatmeal",
+    "title": "Instant Oatmeal",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "italian-basil-pesto",
+    "title": "Italian Basil Pesto",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "jasmine-rice",
+    "title": "Jasmine Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "jumbo-shells-or-baking-pasta",
+    "title": "Jumbo Shells or Baking Pasta",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "kewpie-mayonnaise",
+    "title": "Kewpie Mayonnaise",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "large-size-cereal",
+    "title": "Large Size Cereal",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "lasagna",
+    "title": "Lasagna",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "light-soup",
+    "title": "Light Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "local-hive-new-england-raw-unfiltered-honey",
+    "title": "Local Hive New England Raw & Unfiltered Honey",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "long-grain-rice",
+    "title": "Long Grain Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "low-sodium-soy-sauce",
+    "title": "Low Sodium Soy Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "mac-cheese",
+    "title": "Mac & Cheese",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "macaroni-cheese-or-super-mac-shells",
+    "title": "Macaroni & Cheese or Super! Mac Shells",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "manicotti-jumbo-shells-or-wavy-lasagna",
+    "title": "Manicotti, Jumbo Shells or Wavy Lasagna",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "marshmallows",
+    "title": "Marshmallows",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "mayonnaise",
+    "title": "Mayonnaise",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "melting-wafers",
+    "title": "Melting Wafers",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "mi-del-pie-crust",
+    "title": "Mi-Del Pie Crust",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-marshmallows",
+    "title": "Mini Marshmallows",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "minute-or-success-rice",
+    "title": "Minute or Success Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "morsels",
+    "title": "Morsels",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "muffin-mix",
+    "title": "Muffin Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "muy-sabroso-coconut-milk",
+    "title": "Muy Sabroso Coconut Milk",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "near-east-rice",
+    "title": "Near East Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "nestle-la-lechera-sweetened-condensed-milk",
+    "title": "Nestle La Lechera Sweetened Condensed Milk",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "nut-bar",
+    "title": "Nut Bar",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "nutella",
+    "title": "Nutella",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "oatmeal-or-rolled-oats",
+    "title": "Oatmeal or Rolled Oats",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "oats",
+    "title": "Oats",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "oil",
+    "title": "Oil",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "old-fashioned-oats",
+    "title": "Old Fashioned Oats",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "olive-oil",
+    "title": "Olive Oil",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "olives",
+    "title": "Olives",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-coconut-flour",
+    "title": "Organic Coconut Flour",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pam-cooking-spray",
+    "title": "PAM Cooking Spray",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pancake-mix",
+    "title": "Pancake Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pancake-mix-or-syrup",
+    "title": "Pancake Mix or Syrup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pasta",
+    "title": "Pasta",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pasta-or-alfredo-sauce",
+    "title": "Pasta or Alfredo Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pasta-or-alfredo-sauce-olive-oil-or-grated-cheese",
+    "title": "Pasta or Alfredo Sauce, Olive Oil or Grated Cheese",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pasta-sauce",
+    "title": "Pasta Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "peanut-butter",
+    "title": "Peanut Butter",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "peanut-oil",
+    "title": "Peanut Oil",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pecan-swirls",
+    "title": "Pecan Swirls",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pecans",
+    "title": "Pecans",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "picante-peppers",
+    "title": "Picante Peppers",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pie-crust",
+    "title": "Pie Crust",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pie-filling",
+    "title": "Pie Filling",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "poultry-style-gravy-mix",
+    "title": "Poultry Style Gravy Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pudding-mix",
+    "title": "Pudding Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pudding-or-gelatin",
+    "title": "Pudding or Gelatin",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pumpkin-pie-mix",
+    "title": "Pumpkin Pie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pure-vanilla-extract",
+    "title": "Pure Vanilla Extract",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "pure-vegetable-oil",
+    "title": "Pure Vegetable Oil",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "quick-bread",
+    "title": "Quick Bread",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "ragu-pasta-sauce",
+    "title": "Ragu Pasta Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "raw-unfiltered-honey-bear",
+    "title": "Raw & Unfiltered Honey Bear",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "recipe-secrets",
+    "title": "Recipe Secrets",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-cookie-icing",
+    "title": "Red Cookie Icing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-mill",
+    "title": "Red Mill",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-mill-organic-buckwheat",
+    "title": "Red Mill Organic Buckwheat",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-sugar-sprinkles",
+    "title": "Red Sugar Sprinkles",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "rice",
+    "title": "Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "rice-a-roni-or-pasta-roni",
+    "title": "Rice a Roni or Pasta Roni",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "rocher-12pc",
+    "title": "Rocher 12pc",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "royal-flan-mix-family-size",
+    "title": "Royal Flan Mix, Family Size",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "salad-dressing",
+    "title": "Salad Dressing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "salt-pepper-grinders",
+    "title": "Salt & Pepper Grinders",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "scalloped-potatoes",
+    "title": "Scalloped Potatoes",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "seasoning",
+    "title": "Seasoning",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "shelled-walnuts",
+    "title": "Shelled Walnuts",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "solid-white-tuna",
+    "title": "Solid White Tuna",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "soup",
+    "title": "Soup",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "south-georgia-pecans-halves",
+    "title": "South Georgia Pecans Halves",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "specialty-imported-panettone",
+    "title": "Specialty Imported Panettone",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "spices",
+    "title": "Spices",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "spicy-brown-mustard",
+    "title": "Spicy Brown Mustard",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "stuffed-green-pepperoncini",
+    "title": "Stuffed Green Pepperoncini",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "stuffing",
+    "title": "Stuffing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "stuffing-mix-or-home-style-gravy",
+    "title": "Stuffing Mix or Home Style Gravy",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "sugar",
+    "title": "Sugar",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-potatoes",
+    "title": "Sweet Potatoes",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "tomato-sauce",
+    "title": "Tomato Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "tomatoes-or-sauce",
+    "title": "Tomatoes or Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "trail-mix",
+    "title": "Trail Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "triple-chunk-walnut-brownie-mix",
+    "title": "Triple Chunk Walnut Brownie Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-brine-rub-kit",
+    "title": "Turkey Brine & Rub Kit",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-stock",
+    "title": "Turkey Stock",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "vanilla-extract",
+    "title": "Vanilla Extract",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "vegetables",
+    "title": "Vegetables",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "velveeta-or-deluxe-or-restaurant-style-mac-n-cheese",
+    "title": "Velveeta or Deluxe or Restaurant Style Mac N Cheese",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "vitarroz-guava-paste",
+    "title": "Vitarroz Guava Paste",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "vlasic-kosher-dill-spears",
+    "title": "Vlasic Kosher Dill Spears",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "watkins-baking-vanilla",
+    "title": "Watkins Baking Vanilla",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "white-cookie-icing",
+    "title": "White Cookie Icing",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-berry-cranberry-sauce",
+    "title": "Whole Berry Cranberry Sauce",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-kernel-corn",
+    "title": "Whole Kernel Corn",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-pickles-or-pickle-chips",
+    "title": "Whole Pickles or Pickle Chips",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "writing-icing-4-count",
+    "title": "Writing Icing - 4 Count",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "yellow-rice",
+    "title": "Yellow Rice",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "yellow-rice-mix",
+    "title": "Yellow Rice Mix",
+    "category": "Pantry",
+    "replaced_by": ""
+  },
+  {
+    "key": "arancini-rice-balls",
+    "title": "Arancini Rice Balls",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "bone-in-turkey-breast-dinner",
+    "title": "Bone-In Turkey Breast Dinner",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "chicken-pot-pie",
+    "title": "Chicken Pot Pie",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "fried-chicken",
+    "title": "Fried Chicken",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "hickory-smoked-st-louis-style-pork-ribs",
+    "title": "Hickory Smoked St. Louis Style Pork Ribs",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "large-side-dish",
+    "title": "Large Side Dish",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "lasagna-or-meals",
+    "title": "Lasagna or Meals",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "mashed-potatoes",
+    "title": "Mashed Potatoes",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "meals-or-mac-cheese",
+    "title": "Meals or Mac & Cheese",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "protein-cups",
+    "title": "Protein Cups",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "pulled-rotisserie-chicken",
+    "title": "Pulled Rotisserie Chicken",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "shredded-pork-tub",
+    "title": "Shredded Pork Tub",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "side-dish",
+    "title": "Side Dish",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "sides",
+    "title": "Sides",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "simply-potatoes",
+    "title": "Simply Potatoes",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "soup-cups",
+    "title": "Soup Cups",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "stromboli",
+    "title": "Stromboli",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "turkey-dinners",
+    "title": "Turkey Dinners",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "warm-wellness-or-loaded-salad-bowls",
+    "title": "Warm, Wellness or Loaded Salad Bowls",
+    "category": "Prepared",
+    "replaced_by": ""
+  },
+  {
+    "key": "apples",
+    "title": "Apples",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "avocados",
+    "title": "Avocados",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "bartlett-pears",
+    "title": "Bartlett Pears",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "batatas",
+    "title": "Batatas",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "blackberries",
+    "title": "Blackberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "blueberries",
+    "title": "Blueberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "blueberries-raspberries-or-fresh-cranberries",
+    "title": "Blueberries, Raspberries or Fresh Cranberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "broccoli",
+    "title": "Broccoli",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "broccoli-crowns",
+    "title": "Broccoli Crowns",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "chopped-salad-kit",
+    "title": "Chopped Salad Kit",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "cooking-bananas",
+    "title": "Cooking Bananas",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "cooking-greens-or-spinach",
+    "title": "Cooking Greens or Spinach",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "cranberries",
+    "title": "Cranberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-celery",
+    "title": "Fresh Celery",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-chestnuts",
+    "title": "Fresh Chestnuts",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-cut-mixed-fruit",
+    "title": "Fresh Cut Mixed Fruit",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "garden-salad",
+    "title": "Garden Salad",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "glory-greens",
+    "title": "Glory Greens",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-beans",
+    "title": "Green Beans",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-leaf-lettuce",
+    "title": "Green Leaf Lettuce",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "green-seedless-grapes",
+    "title": "Green Seedless Grapes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "guacamole",
+    "title": "Guacamole",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "halos-mandarins",
+    "title": "Halos Mandarins",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "hard-squash",
+    "title": "Hard Squash",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "hothouse-bell-peppers",
+    "title": "Hothouse Bell Peppers",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "hothouse-cucumbers",
+    "title": "Hothouse Cucumbers",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "jersey-grown-romaine-lettuce",
+    "title": "Jersey Grown Romaine Lettuce",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "lemons",
+    "title": "Lemons",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "lemons-or-limes",
+    "title": "Lemons or Limes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "limes",
+    "title": "Limes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "locally-grown-cut-butternut-squash",
+    "title": "Locally Grown Cut Butternut Squash",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "locally-grown-green-cabbage",
+    "title": "Locally Grown Green Cabbage",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "locally-grown-honeynut-squash",
+    "title": "Locally Grown Honeynut Squash",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "mandarins",
+    "title": "Mandarins",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-cucumbers",
+    "title": "Mini Cucumbers",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "navel-oranges",
+    "title": "Navel Oranges",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "onions",
+    "title": "Onions",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-or-greenhouse-grown-salad-blend",
+    "title": "Organic or Greenhouse Grown Salad Blend",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "organic-pears",
+    "title": "Organic Pears",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "peeled-garlic",
+    "title": "Peeled Garlic",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "pineapples",
+    "title": "Pineapples",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "pom-pomegranates",
+    "title": "POM Pomegranates",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "pomegranate-arils",
+    "title": "Pomegranate Arils",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "pomegranates",
+    "title": "Pomegranates",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "potatoes",
+    "title": "Potatoes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "raspberries",
+    "title": "Raspberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-leaf-lettuce",
+    "title": "Red Leaf Lettuce",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-or-black-seedless-grapes",
+    "title": "Red or Black Seedless Grapes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-peppers",
+    "title": "Red Peppers",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "red-seedless-grapes",
+    "title": "Red Seedless Grapes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "salad-blends",
+    "title": "Salad Blends",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "salads",
+    "title": "Salads",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "sliced-baby-bella-or-sliced-white-mushrooms",
+    "title": "Sliced Baby Bella or Sliced White Mushrooms",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "snackers",
+    "title": "Snackers",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-basil",
+    "title": "Sweet Basil",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-blackberries-or-raspberries",
+    "title": "Sweet Blackberries or Raspberries",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "sweet-mangoes",
+    "title": "Sweet Mangoes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "tomatoes",
+    "title": "Tomatoes",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "white-cauliflower",
+    "title": "White Cauliflower",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "white-mushrooms",
+    "title": "White Mushrooms",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "wonderful-seedless-lemons",
+    "title": "Wonderful Seedless Lemons",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "yuca",
+    "title": "Yuca",
+    "category": "Produce",
+    "replaced_by": ""
+  },
+  {
+    "key": "alaska-cod-fillets",
+    "title": "Alaska Cod Fillets",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "boardwalk-crab-cakes",
+    "title": "Boardwalk Crab Cakes",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "cauliflower-crab-cake",
+    "title": "Cauliflower Crab Cake",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "ceviche",
+    "title": "Ceviche",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "claw-crab-meat",
+    "title": "Claw Crab Meat",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "cleaned-shrimp",
+    "title": "Cleaned Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "cooked-shrimp",
+    "title": "Cooked Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "crab-rangoons",
+    "title": "Crab Rangoons",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "easy-peel-raw-shrimp",
+    "title": "Easy Peel Raw Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "extra-colossal-black-tiger-shrimp",
+    "title": "Extra Colossal Black Tiger Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "extra-jumbo-raw-shrimp",
+    "title": "Extra Jumbo Raw Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "extra-large-cleaned-tail-off-shrimp-or-large-cooked-shrimp",
+    "title": "Extra Large Cleaned Tail Off Shrimp or Large Cooked Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "ez-peel-shrimp",
+    "title": "EZ-Peel Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-catfish-fillet",
+    "title": "Fresh Catfish Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-dover-sole-fillet",
+    "title": "Fresh Dover Sole Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-north-atlantic-salmon-fillet",
+    "title": "Fresh North Atlantic Salmon Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-wild-caught-flounder-fillet",
+    "title": "Fresh Wild Caught Flounder Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "fresh-wild-caught-icelandic-haddock-fillet",
+    "title": "Fresh Wild Caught Icelandic Haddock Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "frozen-stuffed-clam-appetizers",
+    "title": "Frozen Stuffed Clam Appetizers",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "grab-n-go-shrimp-cocktail",
+    "title": "Grab N' Go Shrimp Cocktail",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "imitation-crabmeat",
+    "title": "Imitation Crabmeat",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "large-snow-crab-clusters",
+    "title": "Large Snow Crab Clusters",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "littleneck-clams",
+    "title": "Littleneck Clams",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "live-fresh-farm-raised-prince-edward-island-mussels",
+    "title": "Live Fresh Farm Raised Prince Edward Island Mussels",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "margaritaville-sunset-shrimp-scampi",
+    "title": "Margaritaville Sunset Shrimp Scampi",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "meal-kits-or-jumbo-breaded-shrimp-appetizers",
+    "title": "Meal Kits or Jumbo Breaded Shrimp Appetizers",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "middleneck-clams-bag",
+    "title": "Middleneck Clams, Bag",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-seafood-bites",
+    "title": "Mini Seafood Bites",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "mussels",
+    "title": "Mussels",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "pier-33-gourmet-mussels-or-stuffed-clams",
+    "title": "Pier 33 Gourmet Mussels or Stuffed Clams",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "pollock",
+    "title": "Pollock",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "premium-live-oysters-hand-selected",
+    "title": "Premium Live Oysters, Hand Selected",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "raw-bay-scallops",
+    "title": "Raw Bay Scallops",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "ready-chef-go-salmon-with-lemon-herb-butter-green-beans",
+    "title": "Ready. Chef. Go! Salmon with Lemon Herb Butter & Green Beans",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "salmon",
+    "title": "Salmon",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "seafood-boil",
+    "title": "Seafood Boil",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "seafood-cakes",
+    "title": "Seafood Cakes",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "seafood-dip-or-spread",
+    "title": "Seafood Dip or Spread",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "shrimp",
+    "title": "Shrimp",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "shrimp-entr-es",
+    "title": "Shrimp Entrées",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "shrimp-ring",
+    "title": "Shrimp Ring",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "smoked-salmon",
+    "title": "Smoked Salmon",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "specialty-jumbo-sea-scallops",
+    "title": "Specialty Jumbo Sea Scallops",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "stuffed-clams",
+    "title": "Stuffed Clams",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "take-bake-salmon-portions",
+    "title": "Take & Bake Salmon Portions",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "tilapia-fillet",
+    "title": "Tilapia Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "trans-ocean-crab-classic-flake-style-imitation-crab",
+    "title": "Trans Ocean Crab Classic Flake Style Imitation Crab",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "whole-branzini",
+    "title": "Whole Branzini",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "wild-caught-skinless-haddock-fillet",
+    "title": "Wild Caught Skinless Haddock Fillet",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "xl-wild-caught-snow-crab-clusters",
+    "title": "XL Wild Caught Snow Crab Clusters",
+    "category": "Seafood",
+    "replaced_by": ""
+  },
+  {
+    "key": "6-in-1-christmas-mix-sprinkles",
+    "title": "6 In 1 Christmas Mix Sprinkles",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "candy-cane-sandwich-creme-candy-cane",
+    "title": "Candy Cane Sandwich Creme, Candy Cane",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "candy-canes",
+    "title": "Candy Canes",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "christmas-chocolates",
+    "title": "Christmas Chocolates",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "christmas-mix-holiday-sprinkles",
+    "title": "Christmas Mix Holiday Sprinkles",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "gift-set-confectionary",
+    "title": "Gift Set Confectionary",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "hand-decorated-christmas-cookie",
+    "title": "Hand Decorated Christmas Cookie",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-candy",
+    "title": "Holiday Candy",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-cookies",
+    "title": "Holiday Cookies",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-toffee-giftbox",
+    "title": "Holiday Toffee Giftbox",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-tray-cookie",
+    "title": "Holiday Tray, Cookie",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "holiday-tray-gingerbread",
+    "title": "Holiday Tray, Gingerbread",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "kisses-christmas",
+    "title": "Kisses Christmas",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "kit-kat-santas",
+    "title": "Kit Kat Santas",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "mini-chocolates-giftbox",
+    "title": "Mini Chocolates Giftbox",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "pb-christmas-trees",
+    "title": "PB Christmas Trees",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "peelerz-santa-naughty",
+    "title": "Peelerz Santa, Naughty",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "peelerz-santa-nice",
+    "title": "Peelerz Santa, Nice",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "xmas-choc-characters",
+    "title": "Xmas Choc Characters",
+    "category": "Seasonal",
+    "replaced_by": ""
+  },
+  {
+    "key": "authentic-granola",
+    "title": "Authentic Granola",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "baked-jax-or-snacks",
+    "title": "Baked Jax or Snacks",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "bars",
+    "title": "Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "biscotti",
+    "title": "Biscotti",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "breakfast-biscuits",
+    "title": "Breakfast Biscuits",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "butter-cookies",
+    "title": "Butter Cookies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "butter-round-crackers",
+    "title": "Butter Round Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "caramels",
+    "title": "Caramels",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheez-doodles",
+    "title": "Cheez Doodles",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cheez-it-snack-crackers",
+    "title": "Cheez-It Snack Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chewy-granola-bars",
+    "title": "Chewy Granola Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chips",
+    "title": "Chips",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chips-ahoy",
+    "title": "Chips Ahoy!",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chocolate",
+    "title": "Chocolate",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chocolate-bar-or-coconut",
+    "title": "Chocolate Bar or Coconut",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "chocolate-squares",
+    "title": "Chocolate Squares",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "club-crackers",
+    "title": "Club Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "club-or-town-house-crackers",
+    "title": "Club or Town House Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookies",
+    "title": "Cookies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookies-or-crackers-party-size",
+    "title": "Cookies or Crackers, Party Size",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cookies-or-wafers",
+    "title": "Cookies or Wafers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "cordial-cherries",
+    "title": "Cordial Cherries",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "crackers",
+    "title": "Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "family-size-oreo-chips-ahoy-or-crackers",
+    "title": "Family Size Oreo, Chips Ahoy or Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "fig-bars",
+    "title": "Fig Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "frito-lay-party-size-snacks",
+    "title": "Frito Lay Party Size Snacks",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "fruit-snacks",
+    "title": "Fruit Snacks",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "fruit-snacks-or-granola-bars",
+    "title": "Fruit Snacks or Granola Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "goldfish",
+    "title": "Goldfish",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "granola-bars",
+    "title": "Granola Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "granola-or-trail-bars",
+    "title": "Granola or Trail Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "lifesavers-storybook-5-flavor-story",
+    "title": "LifeSavers Storybook, 5 Flavor Story",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "lifesavers-storybook-gummies-story",
+    "title": "LifeSavers Storybook, Gummies Story",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "lindor-chocolate-truffles",
+    "title": "Lindor Chocolate Truffles",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "lindt-chocolate-bar",
+    "title": "Lindt Chocolate Bar",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "little-bites",
+    "title": "Little Bites",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "little-bites-or-cookies",
+    "title": "Little Bites or Cookies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "maple-leaf-creme-cookies",
+    "title": "Maple Leaf Creme Cookies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "microwave-popcorn",
+    "title": "Microwave Popcorn",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "mornings-oat-bars",
+    "title": "Mornings Oat Bars",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "nilla-wafers-or-graham-crackers",
+    "title": "Nilla Wafers or Graham Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "olive-oil-popcorn",
+    "title": "Olive Oil Popcorn",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "onion-rings",
+    "title": "Onion Rings",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "party-stacks",
+    "title": "Party Stacks",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "path-organic-granola",
+    "title": "Path Organic Granola",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "peanut-brittle",
+    "title": "Peanut Brittle",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "peanuts",
+    "title": "Peanuts",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "peanuts-or-flavored-cashews",
+    "title": "Peanuts or Flavored Cashews",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "pop-tarts",
+    "title": "Pop-Tarts",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "popcorn",
+    "title": "Popcorn",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "pretzel-crisps",
+    "title": "Pretzel Crisps",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "pretzels",
+    "title": "Pretzels",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "puffcorn",
+    "title": "Puffcorn",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rice-cakes",
+    "title": "Rice Cakes",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rice-crisps-or-chips",
+    "title": "Rice Crisps or Chips",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "ritz-or-snack-crackers",
+    "title": "Ritz or Snack Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "ritz-style-crackers",
+    "title": "Ritz Style Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rocher-chocolates",
+    "title": "Rocher Chocolates",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rocher-collection-chocolates",
+    "title": "Rocher Collection Chocolates",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rolo",
+    "title": "Rolo",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "rustic-bakery-flatbread-crackers",
+    "title": "Rustic Bakery Flatbread Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "saltine-crackers",
+    "title": "Saltine Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "sandwich-crackers",
+    "title": "Sandwich Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "sharing-size-chocolates",
+    "title": "Sharing Size Chocolates",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "snack-factory-pretzel-crisps",
+    "title": "Snack Factory Pretzel Crisps",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "snacks",
+    "title": "Snacks",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "sophiepops-gumdrops-magical-peelable-gummies",
+    "title": "Sophiepops & Gumdrops Magical Peelable Gummies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "stella-d-oro-cookies-or-archway-cookies",
+    "title": "Stella D'oro Cookies or Archway Cookies",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "thin-mints",
+    "title": "Thin Mints",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "tostitos",
+    "title": "Tostitos",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "town-house-crackers",
+    "title": "Town House Crackers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "veggie-straws",
+    "title": "Veggie Straws",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "zero-sugar-cookies-or-wafers",
+    "title": "Zero Sugar Cookies or Wafers",
+    "category": "Snacks",
+    "replaced_by": ""
+  },
+  {
+    "key": "tortilla-chips",
+    "title": "Tortilla Chips",
+    "category": "Snacks",
+    "replaced_by": "chips"
+  }
+]
