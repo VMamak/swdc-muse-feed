@@ -59,11 +59,6 @@
     "sources": [
       {
         "name": "South Windsor Health Department",
-        "url": "https://www.govserv.org/US/South-Windsor/193184004468602/South-Windsor-Health-Department",
-        "retrieved": "2026-11-12"
-      },
-      {
-        "name": "South Windsor Health Department",
         "url": "http://www.southwindsor-ct.gov/health-department",
         "retrieved": "2026-11-12"
       }
@@ -103,85 +98,57 @@
     ]
   },
   {
-    "id": "stolen-vehicle-pursuit",
+    "id": "scam-warning-nov-5",
     "section": "top",
     "category": "police",
-    "item_date": "2026-11-12",
-    "headline": "Three teenagers arrested after stolen-vehicle pursuit",
-    "summary": "Three Massachusetts teenagers were arrested in South Windsor around 3 a.m. Thursday, Nov. 12, after a stolen vehicle fled police on Route 5.",
+    "item_date": "2026-11-05",
+    "headline": "Phone scam warning: callers impersonating Chief Lindstrom",
+    "summary": "South Windsor Police warn that callers impersonating Chief Lindstrom told a resident they were a victim of identity theft and asked for personal identifying information. The department never asks for personal identifying information by phone.",
     "body": [
-      "A stolen vehicle that fled from authorities in South Windsor in the early morning hours of Thursday, November 12, was disabled by police, leading to the arrest of three teenagers from Massachusetts.",
-      "Police were alerted to the vehicle as it left East Windsor heading south on Route 5 toward South Windsor. Officers tried to pull it over, the driver refused and made a U-turn, and officers deployed stop sticks before the vehicle was found abandoned near Strong Road and West Road.",
-      "A Connecticut State Police K-9 unit and a drone from the Manchester Police Department assisted the search. Jovanie J. Candelaria, 18, of Springfield, Massachusetts, was found as he tried to get into an Uber. Teyvaun C. Williams-Santiago, 18, of Greenfield, Massachusetts, and Zachary D. Hardy, 18, of Gardner, Massachusetts, were found hiding in a shed at the rear of a property on West Road.",
-      "All three were arrested around 3 a.m. and charged with engaging police in pursuit, interfering with an officer/resisting, third-degree burglary, second-degree criminal trespass, conspiracy to commit larceny of a motor vehicle, and second-degree criminal trover. Candelaria and Williams-Santiago were held on $10,000 bonds. Hardy was held on a $20,000 bond. All three were expected to appear in Manchester Superior Court on Thursday morning.",
-      "The charges are accusations. The three are presumed innocent unless proven guilty."
+      "Good morning #SW06074.  Yesterday, a citizen received a phone call from someone claiming to be Chief Lindstrom; the caller ID showed the police department's main phone number, 860-644-2551.  The caller claimed the citizen was a victim of identity theft and needed to provide personal identifying information to address the issue.  Thankfully, the citizen recognized this as a scam, hung up, and came to the PD lobby to file a report.",
+      "As a reminder, police department employees will never contact citizens and ask for personal identifying information.  If you believe you may be subject to a scam, hang up the phone immediately, do not provide the caller with any information, and contact the police department if personal identifying information (DOB, SSN, etc.) was given so a report can be filed and the appropriate steps can be taken to protect your identity."
     ],
-    "key_figures": [
-      {
-        "value": "3",
-        "label": "Teenagers arrested"
-      },
-      {
-        "value": "$10,000",
-        "label": "Bond for Candelaria and Williams-Santiago"
-      },
-      {
-        "value": "$20,000",
-        "label": "Bond for Hardy"
-      }
-    ],
+    "key_figures": [],
     "timeline": [],
     "links": [
       {
-        "label": "Hartford Courant",
-        "url": "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=1b3544f3-81a8-4626-9daf-eddab3a7dacc"
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid038K47gyyv9hChD3S3fYGnCYMaXqBomyXQqp8PMBqKUPYRvrdM7hbEWDiz5hNxJgaCl"
       }
     ],
     "files": [],
     "sources": [
       {
-        "name": "Hartford Courant",
-        "url": "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=1b3544f3-81a8-4626-9daf-eddab3a7dacc",
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid038K47gyyv9hChD3S3fYGnCYMaXqBomyXQqp8PMBqKUPYRvrdM7hbEWDiz5hNxJgaCl",
         "retrieved": "2026-11-14"
       }
     ]
   },
   {
-    "id": "raschello-larceny",
+    "id": "key-fob-found-nov-9",
     "section": "top",
     "category": "police",
-    "item_date": "2026-11-11",
-    "headline": "Woman accused of stealing $500,000 from South Windsor employer",
-    "summary": "Julie Raschello, 43, of Uncasville, was arrested Wednesday, Nov. 11, on a warrant for first-degree larceny, accused of more than $500,000 in unauthorized purchases from her employer, a practice at 1050 Sullivan Ave.",
+    "item_date": "2026-11-09",
+    "headline": "Key fob found on Main Street",
+    "summary": "A key fob was found on the lawn of 870 Main Street on Nov. 1. The owner can contact Ofc. Falletti at 860-644-2551.",
     "body": [
-      "Julie Raschello, 43, of Uncasville, was arrested Wednesday, November 11, on a warrant for first-degree larceny.",
-      "Raschello was the practice manager at Connecticut Women's Obstetrics and Gynecology, 1050 Sullivan Avenue. She is accused of more than $500,000 in unauthorized purchases after an investigation that began in September 2026. Police say the employer's card was used for cosmetic procedures, bills, shopping and taxes.",
-      "She was held on a $250,000 court-set bond and appeared in court Thursday, November 12, at 9 a.m.",
-      "The charges are accusations. Raschello is presumed innocent unless proven guilty."
+      "Good morning #SW06074.  This key fob was found on the lawn of 870 Main Street on 11/1/26.  If you know who it belongs to, please contact Ofc. Falletti at 860-644-2551 or Jonathan.Falletti@southwindsor-ct.gov."
     ],
-    "key_figures": [
-      {
-        "value": "$500,000+",
-        "label": "Unauthorized purchases alleged"
-      },
-      {
-        "value": "$250,000",
-        "label": "Court-set bond"
-      }
-    ],
+    "key_figures": [],
     "timeline": [],
     "links": [
       {
-        "label": "Patch",
-        "url": "https://patch.com/connecticut/southwindsor/woman-accused-stealing-500k-south-windsor-employer"
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0TwF9esGWKcimttYUHKNQ88JwcvhyXzPMcKNb1sWFAbbq4c7xsfPdyjH6XoSY6HX7l"
       }
     ],
     "files": [],
     "sources": [
       {
-        "name": "Patch",
-        "url": "https://patch.com/connecticut/southwindsor/woman-accused-stealing-500k-south-windsor-employer",
-        "retrieved": "2026-11-13"
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0TwF9esGWKcimttYUHKNQ88JwcvhyXzPMcKNb1sWFAbbq4c7xsfPdyjH6XoSY6HX7l",
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -191,11 +158,11 @@
     "category": "housing",
     "item_date": "2026-11-10",
     "headline": "69-home senior community plan faces neighbors' backlash at hearing",
-    "summary": "The Planning and Zoning Commission heard the 69-home 55-plus community proposed for 100 Oakland Road on Tuesday, Nov. 10. The hearing ran past 10:30 p.m. and was continued, with no vote taken and no date set for the next hearing.",
+    "summary": "The Planning and Zoning Commission heard the 69-home 55-plus community proposed for 100 Oakland Road on Tuesday, Nov. 10. The hearing ran past 10:30 p.m. and was continued to a special public hearing on Tuesday, Dec. 1, with no vote taken.",
     "body": [
       "The proposed Estates at 100 Oakland is a 69-home community for residents 55 and older, on 32.53 acres at 15 Petersen Way, 50 Darlene Drive, and 80, 90 and 100 Oakland Road. The applicant is 90 Oakland Road Associates LLC, and the developer is Jim Newbury, president of Bestech Inc. of Connecticut.",
       "The homes would be single-story, two to three bedrooms, 1,200 to 2,400 square feet. Eleven of the 69 homes would be sold at affordable prices, developer Jim Newbury said. About 12 acres would be preserved.",
-      "The Planning and Zoning Commission held a public hearing on the site-design application (26-29P) on Tuesday, November 10. The hearing ran about three and a half hours, with eight neighbors speaking against the plan over traffic, density, environment and wildlife, and school capacity. The commission voted to extend the public hearing to a special public hearing. No date has been announced for that hearing, and no vote was taken on the application.",
+      "The Planning and Zoning Commission held a public hearing on the site-design application (26-29P) on Tuesday, November 10. The hearing ran about three and a half hours, with eight neighbors speaking against the plan over traffic, density, environment and wildlife, and school capacity. At 10:30 p.m., the commission voted unanimously to continue the public hearing to a special meeting on Tuesday, December 1, 2026. No vote was taken on the application.",
       "Traffic engineer Mark Vertucci of Fuss and O'Neill told the commission the queuing impact at Oakland Road and Sullivan Avenue would be nominal, though the westbound right turn is already at capacity. A planned sidewalk to Wapping Center was dropped after the Wapping Cemetery board opposed it.",
       "The town's Inland Wetlands Agency approved the wetlands application on June 17, 2026, with 14 conditions."
     ],
@@ -228,10 +195,14 @@
       },
       {
         "date": "2026-12-01",
-        "text": "Next hearing tentatively scheduled for Dec. 1, not confirmed"
+        "text": "Special public hearing continued to Tuesday, December 1, per the town minutes"
       }
     ],
     "links": [
+      {
+        "label": "Planning and Zoning Commission minutes, Nov. 10",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_11102026-678"
+      },
       {
         "label": "Hartford Business Journal",
         "url": "https://nebusinessmedia.uberflip.com/i/1537782-hbj072825uf/7"
@@ -239,6 +210,11 @@
     ],
     "files": [],
     "sources": [
+      {
+        "name": "Town of South Windsor, Planning and Zoning Commission minutes, Nov. 10",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_11102026-678",
+        "retrieved": "2026-11-14"
+      },
       {
         "name": "Hartford Business Journal",
         "url": "https://nebusinessmedia.uberflip.com/i/1537782-hbj072825uf/7",
@@ -300,12 +276,21 @@
     "timeline": [],
     "links": [
       {
+        "label": "Planning and Zoning Commission minutes, Oct. 27",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_10272026-661"
+      },
+      {
         "label": "Patch",
         "url": "https://patch.com/connecticut/southwindsor/south-windsor-rejects-religious-campus-zoning-changes"
       }
     ],
     "files": [],
     "sources": [
+      {
+        "name": "Town of South Windsor, Planning and Zoning Commission minutes, Oct. 27",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_10272026-661",
+        "retrieved": "2026-11-14"
+      },
       {
         "name": "Patch",
         "url": "https://patch.com/connecticut/southwindsor/south-windsor-rejects-religious-campus-zoning-changes",
@@ -569,7 +554,12 @@
         "url": "https://patch.com/connecticut/southwindsor/south-windsor-plans-march-vote-new-high-school"
       }
     ],
-    "files": [],
+    "files": [
+      {
+        "label": "New high school brochure, Board of Education, October 2026 (PDF)",
+        "path": "news/files/new-high-school-brochure-2026-10.pdf"
+      }
+    ],
     "sources": [
       {
         "name": "Patch",
