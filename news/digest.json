@@ -140,14 +140,14 @@
     "links": [
       {
         "label": "South Windsor Police Department post",
-        "url": "https://www.facebook.com/photo?fbid=1568845328622140&set=a.304130628426956"
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid034XKvy6aAzD3ePNsdz6JBRRBrhUdkCXAUdoduz6geLFH4oixawSdBTumGN1miWCDUl"
       }
     ],
     "files": [],
     "sources": [
       {
         "name": "South Windsor Police Department",
-        "url": "https://www.facebook.com/photo?fbid=1568845328622140&set=a.304130628426956",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid034XKvy6aAzD3ePNsdz6JBRRBrhUdkCXAUdoduz6geLFH4oixawSdBTumGN1miWCDUl",
         "retrieved": "2026-11-14"
       }
     ]
@@ -352,14 +352,14 @@
     "links": [
       {
         "label": "South Windsor Police Department post",
-        "url": "https://www.facebook.com/photo/?fbid=1558439432996063&set=a.304130628426956"
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02PKnqjxVzBpuUndos76tv8x5dDfdBR2izZi4gzxfyHYPmXzJfrZDdjFJXdV859ujbl"
       }
     ],
     "files": [],
     "sources": [
       {
         "name": "South Windsor Police Department",
-        "url": "https://www.facebook.com/photo/?fbid=1558439432996063&set=a.304130628426956",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02PKnqjxVzBpuUndos76tv8x5dDfdBR2izZi4gzxfyHYPmXzJfrZDdjFJXdV859ujbl",
         "retrieved": "2026-11-14"
       }
     ]
@@ -1021,7 +1021,7 @@
     "body": [
       "South Windsor voters approved Question 1, the $15 million road question, on November 3, 2026.",
       "Yes: 6,751 votes. No: 3,373 votes. Total: 10,124 votes.",
-      "The totals are votes cast in South Windsor only. The results are unofficial, from the Connecticut Secretary of the State Election Night Reporting, and match the Town of South Windsor tally sheet."
+      "The totals are votes cast in South Windsor only. The results are unofficial, from the Town of South Windsor's Final Totals by Candidate document."
     ],
     "key_figures": [
       {
@@ -1044,6 +1044,10 @@
     "timeline": [],
     "links": [
       {
+        "label": "Town of South Windsor, Final Totals by Candidate",
+        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247"
+      },
+      {
         "label": "Connecticut Election Center",
         "url": "https://ctemspublic.pcctg.net"
       }
@@ -1051,14 +1055,14 @@
     "files": [],
     "sources": [
       {
-        "name": "Connecticut Secretary of the State, Election Night Reporting",
-        "url": "https://ctemspublic.pcctg.net",
+        "name": "Town of South Windsor, Final Totals by Candidate",
+        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247",
         "retrieved": "2026-11-14"
       },
       {
-        "name": "Town of South Windsor tally sheet",
-        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247",
-        "retrieved": "2026-11-04"
+        "name": "Connecticut Secretary of the State, Election Night Reporting",
+        "url": "https://ctemspublic.pcctg.net",
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -1071,16 +1075,16 @@
     "summary": "Full results for the Nov. 3, 2026 election in South Windsor, with party labels. All totals are votes cast in South Windsor only.",
     "body": [
       "Governor: Ned Lamont (D) 7,001; Ryan Fazio (R) 4,122.",
-      "U.S. House, District 1: Luke Bronin (D) 7,311; Amy Chai (R) 3,454; Mary L. Sanders (Green) 182.",
+      "U.S. House, District 1: Luke Bronin (D) 7,316; Amy Chai (R) 3,456; Mary L. Sanders (Green) 182.",
       "State Senate: Saud Anwar (D) 7,143; Eliott Hughes (R) 3,878.",
       "State House, District 14: Tom Delnicki (R) 5,236; Harrison Amadasun (D) 4,784.",
       "Secretary of the State: Stephanie Thomas (D) 7,265; Peter Lumaj (R) 3,673.",
-      "Treasurer: Erick Russell (D) 6,841; Fred Wilms (R) 4,084.",
-      "Comptroller: Sean Scanlon (D) 7,178; Jennifer S. Tooker (R) 3,748.",
+      "Treasurer: Erick Russell (D) 6,839; Fred Wilms (R) 4,086.",
+      "Comptroller: Sean Scanlon (D) 7,175; Jennifer S. Tooker (R) 3,751.",
       "Attorney General: William Tong (D) 7,300; John Bolton (R) 3,702.",
       "Judge of Probate: Mary C. Deneen (D, R) 10,745.",
       "Statewide, Ned Lamont won the governor's race over Ryan Fazio, 739,289 to 516,055.",
-      "All totals are votes cast in South Windsor only. The results are unofficial, from the Connecticut Secretary of the State Election Night Reporting."
+      "All totals are votes cast in South Windsor only. The results are unofficial, from the Town of South Windsor's Final Totals by Candidate document."
     ],
     "key_figures": [
       {
@@ -1092,7 +1096,7 @@
         "label": "Fazio (R) for Governor"
       },
       {
-        "value": "7,311",
+        "value": "7,316",
         "label": "Bronin (D) for U.S. House District 1"
       },
       {
@@ -1107,6 +1111,10 @@
     "timeline": [],
     "links": [
       {
+        "label": "Town of South Windsor, Final Totals by Candidate",
+        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247"
+      },
+      {
         "label": "Connecticut Election Center",
         "url": "https://ctemspublic.pcctg.net"
       }
@@ -1114,14 +1122,14 @@
     "files": [],
     "sources": [
       {
-        "name": "Connecticut Secretary of the State, Election Night Reporting",
-        "url": "https://ctemspublic.pcctg.net",
+        "name": "Town of South Windsor, Final Totals by Candidate",
+        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247",
         "retrieved": "2026-11-14"
       },
       {
-        "name": "Town of South Windsor tally sheet",
-        "url": "https://www.southwindsor-ct.gov/DocumentCenter/View/19247",
-        "retrieved": "2026-11-04"
+        "name": "Connecticut Secretary of the State, Election Night Reporting",
+        "url": "https://ctemspublic.pcctg.net",
+        "retrieved": "2026-11-14"
       }
     ]
   }
