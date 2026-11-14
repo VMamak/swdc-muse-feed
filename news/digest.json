@@ -27,44 +27,6 @@
     ]
   },
   {
-    "id": "vaccine-clinic-nov-19",
-    "section": "today",
-    "category": "safety",
-    "item_date": "2026-11-19",
-    "headline": "Health Department vaccine clinic, Thursday, Nov. 19",
-    "summary": "A Health Department vaccine clinic runs Thursday, Nov. 19, 4 to 7 p.m. at the Public Library Friends' Room, with flu, COVID-19, shingles, RSV and pneumococcal vaccines.",
-    "body": [
-      "The South Windsor Health Department and Stop & Shop Pharmacy hold a vaccine clinic on Thursday, November 19, from 4 to 7 p.m. in the Friends' Room at the South Windsor Public Library.",
-      "Flu, COVID-19, shingles, RSV and pneumococcal vaccines will be available. Bring proof of insurance. Walk-ins are welcome.",
-      "This is the second of two clinics; the first was Thursday, November 12, at the same time and place."
-    ],
-    "key_figures": [],
-    "timeline": [
-      {
-        "date": "2026-11-12",
-        "text": "First clinic, 4 to 7 p.m., Public Library Friends' Room"
-      },
-      {
-        "date": "2026-11-19",
-        "text": "Second clinic, 4 to 7 p.m., Public Library Friends' Room"
-      }
-    ],
-    "links": [
-      {
-        "label": "South Windsor Health Department",
-        "url": "http://www.southwindsor-ct.gov/health-department"
-      }
-    ],
-    "files": [],
-    "sources": [
-      {
-        "name": "South Windsor Health Department",
-        "url": "http://www.southwindsor-ct.gov/health-department",
-        "retrieved": "2026-11-12"
-      }
-    ]
-  },
-  {
     "id": "thanksgiving-interfaith-service",
     "section": "today",
     "category": "events",
@@ -153,6 +115,381 @@
     ]
   },
   {
+    "id": "witwicki-nov-13",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-13",
+    "headline": "Woman arrested on disorderly conduct warrant",
+    "summary": "South Windsor Police arrested Angela E. Witwicki, 39, of South Windsor, on Thursday, Nov. 12, on an active arrest warrant, on a disorderly conduct charge from a domestic violence investigation.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nFriday November 13th, 2026",
+      "2600022670 - Disorderly Conduct:\nOn Thursday November 12th, 2026, at 1438 hours, SWPD arrested Angela E. Witwicki, 39, of South Windsor, on an active arrest warrant. Her charges stem from a domestic violence investigation earlier this month where it was determined that Witwicki pushed the victim during an argument. Witwicki was taken into custody, processed, and released on a $500.00 non-surety bond. She is scheduled to appear in Manchester Superior Court this morning at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600022670",
+        "label": "Case number"
+      },
+      {
+        "value": "$500.00",
+        "label": "Non-surety bond"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/photo?fbid=1568845328622140&set=a.304130628426956"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/photo?fbid=1568845328622140&set=a.304130628426956",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "raschello-larceny",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-12",
+    "headline": "Woman arrested in $500,000 larceny case",
+    "summary": "South Windsor Police arrested Julie Raschello, 43, of Uncasville, on Wednesday, Nov. 11, on a warrant, on a first-degree larceny charge from a September 2026 investigation into over $500,000 in unauthorized purchases on her employer's business credit card. She was held on a $250,000 court-set bond.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nThursday November 12th, 2026",
+      "2600017404 - Larceny in the 1st Degree:\nOn Wednesday November 11th, 2026, 0856 hours, SWPD arrested Julie Raschello, 43, of Uncasville on an active arrest warrant. Her charges stem from a September 2026 investigation where it was determined that Raschello made over $500,000 in unauthorized purchases utilizing her employer's business credit card. Raschello was taken into custody by another agency and transported back to South Windsor Police Headquarters. She was processed and held on a $250,000 court set bond and is scheduled to appear in court this morning at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600017404",
+        "label": "Case number"
+      },
+      {
+        "value": "$500,000+",
+        "label": "Unauthorized purchases"
+      },
+      {
+        "value": "$250,000",
+        "label": "Court-set bond"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02PCN3QUG1YLG66aojHuKhsz8mDQkhHVgSitLKweVzhFC3HMUQwSyMyv8dT18CgFn1l"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02PCN3QUG1YLG66aojHuKhsz8mDQkhHVgSitLKweVzhFC3HMUQwSyMyv8dT18CgFn1l",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "hernandez-santiago-dui-nov-10",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-10",
+    "headline": "Man arrested for driving under the influence",
+    "summary": "South Windsor Police arrested Rodolfo Hernandez-Santiago, 47, of East Hartford, on Thursday, Nov. 5, after an officer saw his vehicle driving erratically, nearly striking a vehicle in another lane. He failed field sobriety tests and was released on a $2,500 non-surety bond.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nTuesday November 10th, 2026",
+      "2600023031 - Operating Under the Influence, Failure to Drive in Proper Lane:\nOn Thursday November 5th, 2026, SWPD arrested Rodolfo Hernandez-Santiago, 47, of East Hartford. An SWPD Officer observed a vehicle driving erratically, nearly striking a vehicle in another travel lane. A traffic stop was conducted, and Hernandez-Santiago was identified. During the investigation, it was believed Hernandez-Santiago was under the influence of alcohol. He consented to the Standardized Field Sobriety Tests, which he subsequently failed. Hernandez-Santiago was taken into custody and was processed and released on a $2,500 non-surety bond. He is scheduled to appear in Manchester Superior Court on Monday November 23rd, 2026, at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600023031",
+        "label": "Case number"
+      },
+      {
+        "value": "$2,500",
+        "label": "Non-surety bond"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid03bvWYG7CgPxNVSSfQzFpHNpHems8Gb7CEak5wA1fKrKFyzHvJp7BbSJ82LXM8mmUl"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid03bvWYG7CgPxNVSSfQzFpHNpHems8Gb7CEak5wA1fKrKFyzHvJp7BbSJ82LXM8mmUl",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "barzola-clayton-nov-9",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-09",
+    "headline": "Two arrested Nov. 7: assault and breach of peace",
+    "summary": "South Windsor Police arrested Andrea Malo Barzola, 28, of South Windsor, on Saturday, Nov. 7, on an assault charge after a physical fight in a vehicle, and John R. Clayton, 78, of South Windsor, the same day on a breach of peace charge after an argument at Whole Foods.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nMonday November 9th, 2026",
+      "2600023121 - Assault in the 3rd Degree:\nOn Saturday November 7th, 2026, at 0227 hours, SWPD arrested Andrea Malo Barzola, 28, of South Windsor. Officers were dispatched to a residence in town for reports of an assault. Officers arrived and made contact with Malo Barzola, who reported a physical altercation between her and the victim. After an investigation, it was determined Malo Barzola initiated the physical fight in a vehicle. Malo Barzola was subsequently taken into custody, processed, and released on a $500.00 non-surety bond. She is scheduled to appear in Manchester Superior Court this morning at 0900 hours.",
+      "2600023150 - Breach of Peace in the 2nd Degree:\nOn Saturday November 7th, 2026, at 1407 hours, SWPD arrested John R. Clayton, 78, of South Windsor. Officers were dispatched to Whole Foods (801 Evergreen Way) for reports of an active argument between two people. Officers arrived and after an investigation, it was determined Clayton engaged in argumentative and aggressive behavior with the victim over a parking spot. Clayton was issued a misdemeanor summons and is scheduled to appear in Manchester Superior Court on Wednesday November 25th, 2026, at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600023121",
+        "label": "Barzola case number"
+      },
+      {
+        "value": "2600023150",
+        "label": "Clayton case number"
+      },
+      {
+        "value": "$500.00",
+        "label": "Barzola non-surety bond"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0225njiFVpDHvrtxjfLAJsmaR4TTUfo1aLwkrBA4BYPcShsHXy5mch8RoP51cb4g8xl"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0225njiFVpDHvrtxjfLAJsmaR4TTUfo1aLwkrBA4BYPcShsHXy5mch8RoP51cb4g8xl",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "tarantino-estrada-negroni-nov-5",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-05",
+    "headline": "Two arrested after fentanyl search warrant; man arrested at Target",
+    "summary": "South Windsor Police and the East Central Narcotics Task Force arrested Kristyn E. Tarantino, 50, and Miguel Estrada, 54, both of South Windsor, on Oct. 27 after a search warrant found fentanyl wax folds and drug paraphernalia. Police also arrested Emir Negroni, 45, of Hartford, on Nov. 4 at Target after he admitted stealing $397.15 in merchandise.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nThursday November 5th, 2026",
+      "2600020028 - Use of Drug Paraphernalia, Possession of a Controlled Substance:\nOn October 27th, 2026, at 0650 hours, members of the East Central Narcotics Task Force and the SWPD arrested Kristyn E. Tarantino, 50, of South Windsor and Miguel Estrada, 54, of South Windsor after a search warrant was conducted at their residence which resulted in the discovery of wax folds containing fentanyl and various drug paraphernalia. Tarantino and Estrada were taken into custody and processed and released on $5,000 surety bonds. They are scheduled to appear in Manchester Superior Court on Wednesday November 18th, 2026, at 0900 hours.",
+      "2600022943 - Larceny in the 6th Degree, Failure to Appear in the 2nd Degree (2 Counts):\nOn Wednesday November 4th, 2026, at 1930, SWPD arrested Emir Negroni, 45, of Hartford. Officers were dispatched to Target (125 Buckland Hills Drive) for a larceny complaint. Officers arrived in the area and located Negroni, who admitted to stealing $397.15 worth of merchandise. During questioning, it was also determined that he had two warrants for Failure to Appear. He was taken into custody, processed, and released on three $1,000.00 surety bonds. He is scheduled to appear in Manchester Superior Court on Wednesday November 18th, 2026, at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600020028",
+        "label": "Tarantino and Estrada case number"
+      },
+      {
+        "value": "2600022943",
+        "label": "Negroni case number"
+      },
+      {
+        "value": "$5,000",
+        "label": "Tarantino and Estrada surety bonds"
+      },
+      {
+        "value": "$397.15",
+        "label": "Merchandise Negroni admitted stealing"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02XdBdvVhLNDcQGM7dxXnKkfdtddZMqAwPHrjEck1RNrFdGEcSicuSvmB3WiDBGVkFl"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid02XdBdvVhLNDcQGM7dxXnKkfdtddZMqAwPHrjEck1RNrFdGEcSicuSvmB3WiDBGVkFl",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "iwans-nov-4",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-04",
+    "headline": "Man arrested in CVS shoplifting",
+    "summary": "South Windsor Police arrested Mark R. Iwans, 48, of Glastonbury, on Tuesday, Nov. 3, after officers responded to CVS on Buckland Road for a shoplifting in progress and found he stole $56.47 in items. He was released on a $1,000 non-surety bond.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nWednesday November 4th, 2026",
+      "2600022831 - Larceny in the 6th Degree:\nOn Tuesday November 3rd, 2026, at 1213 hours, SWPD arrested Mark R. Iwans, 48, of Glastonbury. Officers responded to CVS (525 Buckland Road) for reports of a shoplifting in progress. Iwans was located leaving CVS and was taken into custody after it was determined he stole $56.47 worth of items. Iwans was taken into custody and processed and released on a $1,000 non-surety bond. He is scheduled to appear in Manchester Superior Court on Wednesday November 18th, 2026, at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600022831",
+        "label": "Case number"
+      },
+      {
+        "value": "$56.47",
+        "label": "Value of items stolen"
+      },
+      {
+        "value": "$1,000",
+        "label": "Non-surety bond"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/photo/?fbid=1558439432996063&set=a.304130628426956"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/photo/?fbid=1558439432996063&set=a.304130628426956",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "singh-ray-nov-2",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-02",
+    "headline": "Woman arrested after blocking car in driveway",
+    "summary": "South Windsor Police arrested Neeta Singh-Ray, 47, of West Hartford, on Sunday, Nov. 1, on a disorderly conduct charge after a domestic violence related incident in which she blocked the victim's car in his driveway as he tried to leave.",
+    "body": [
+      "NEWS RELEASE\nSouth Windsor Police Department\nMonday November 2nd, 2026",
+      "2600022668 - Disorderly Conduct:\nOn Sunday November 1st, 2026, at 1105 hours, SWPD arrested Neeta Singh-Ray, 47, of West Hartford after a domestic violence related incident in which it was determined she intentionally blocked the victim's car in his driveway as he was trying to leave. Singh-Ray was issued a misdemeanor summons and is scheduled to appear in Manchester Superior Court this morning at 0900 hours.",
+      "Lieutenant Mark Cleverdon # 179\nPublic Information Officer\nTwitter: @SWPD_PIO\nDesk: (860) 648-6257\nHeadquarters: (860) 644-2551\nFax: (860) 644-8716\nEmail: mark.cleverdon@southwindsor-ct.gov\nSouth Windsor Police Department 151 Sand Hill Road, South Windsor, CT 06074"
+    ],
+    "key_figures": [
+      {
+        "value": "2600022668",
+        "label": "Case number"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0snPPxYEFZoRb7RNfWcMLjsyRAnbeFqsq2TD81D9b2zkoDDx1VrdXictFi5k73tUMl"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0snPPxYEFZoRb7RNfWcMLjsyRAnbeFqsq2TD81D9b2zkoDDx1VrdXictFi5k73tUMl",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "october-stats-nov-2",
+    "section": "top",
+    "category": "police",
+    "item_date": "2026-11-02",
+    "headline": "Police report October activity: 2,391 dispatch entries, 45 arrests",
+    "summary": "The South Windsor Police Department posted its October 2026 activity summary on Nov. 2: 2,391 computer-aided dispatch entries, 45 arrests, 644 911 calls, 279 motor-vehicle stops and 43 larcenies.",
+    "body": [
+      "Total Computer Aided Dispatch Entries: 2391",
+      "Routine Calls Received/Outgoing: 3406",
+      "911 Calls 644",
+      "Directed Patrol/Premise Checks: 837",
+      "Motor Vehicle Stop - Attempt 3",
+      "Motor Vehicle Stops: 279",
+      "Driving Under the Influence 2",
+      "Emotionally Disturbed Persons: 10",
+      "Medical Assists: 157",
+      "Suspicious: 82",
+      "Alarms: 68",
+      "Motor Vehicle Violation 22",
+      "Motor Vehicle Accidents: 40",
+      "Evading Motor Vehicle Accidents 6",
+      "Welfare Check: 59",
+      "Assist Outside Agency: 38",
+      "Animal Problem: 40",
+      "Citizen Assist: 30",
+      "Miscellaneous Service: 7",
+      "Collision Reports: 20",
+      "BOLO: 6",
+      "Disabled Motor Vehicle: 27",
+      "Larceny - Motor Vehicle 0",
+      "Larceny: 43",
+      "Hazardous Conditions: 9",
+      "Pistol Permits: 10",
+      "Burglary 2",
+      "Burglary - Motor Vehicle 1",
+      "Civil Matter: 11",
+      "911 Check: 18",
+      "Fraud: 5",
+      "Domestic Dispute: 12",
+      "Violation of Town Ordinance: 0",
+      "Sexual Assault 3",
+      "Arrests 45",
+      "Youth Problem: 22"
+    ],
+    "key_figures": [
+      {
+        "value": "2,391",
+        "label": "Computer-aided dispatch entries"
+      },
+      {
+        "value": "45",
+        "label": "Arrests"
+      },
+      {
+        "value": "644",
+        "label": "911 calls"
+      },
+      {
+        "value": "279",
+        "label": "Motor-vehicle stops"
+      },
+      {
+        "value": "43",
+        "label": "Larcenies"
+      },
+      {
+        "value": "157",
+        "label": "Medical assists"
+      },
+      {
+        "value": "40",
+        "label": "Motor-vehicle accidents"
+      }
+    ],
+    "timeline": [],
+    "links": [
+      {
+        "label": "South Windsor Police Department post",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0hENcinhEyxszRWfa7kjbfG7fKiUKTvAbLDagoyvhPrz4kq79YkCRoRUXUNZdGeynl"
+      }
+    ],
+    "files": [],
+    "sources": [
+      {
+        "name": "South Windsor Police Department",
+        "url": "https://www.facebook.com/SouthWindsorPoliceDepartment/posts/pfbid0hENcinhEyxszRWfa7kjbfG7fKiUKTvAbLDagoyvhPrz4kq79YkCRoRUXUNZdGeynl",
+        "retrieved": "2026-11-14"
+      }
+    ]
+  },
+  {
     "id": "senior-housing-estates-100-oakland",
     "section": "top",
     "category": "housing",
@@ -160,11 +497,9 @@
     "headline": "69-home senior community plan faces neighbors' backlash at hearing",
     "summary": "The Planning and Zoning Commission heard the 69-home 55-plus community proposed for 100 Oakland Road on Tuesday, Nov. 10. The hearing ran past 10:30 p.m. and was continued to a special public hearing on Tuesday, Dec. 1, with no vote taken.",
     "body": [
-      "The proposed Estates at 100 Oakland is a 69-home community for residents 55 and older, on 32.53 acres at 15 Petersen Way, 50 Darlene Drive, and 80, 90 and 100 Oakland Road. The applicant is 90 Oakland Road Associates LLC, and the developer is Jim Newbury, president of Bestech Inc. of Connecticut.",
-      "The homes would be single-story, two to three bedrooms, 1,200 to 2,400 square feet. Eleven of the 69 homes would be sold at affordable prices, developer Jim Newbury said. About 12 acres would be preserved.",
-      "The Planning and Zoning Commission held a public hearing on the site-design application (26-29P) on Tuesday, November 10. The hearing ran about three and a half hours, with eight neighbors speaking against the plan over traffic, density, environment and wildlife, and school capacity. At 10:30 p.m., the commission voted unanimously to continue the public hearing to a special meeting on Tuesday, December 1, 2026. No vote was taken on the application.",
-      "Traffic engineer Mark Vertucci of Fuss and O'Neill told the commission the queuing impact at Oakland Road and Sullivan Avenue would be nominal, though the westbound right turn is already at capacity. A planned sidewalk to Wapping Center was dropped after the Wapping Cemetery board opposed it.",
-      "The town's Inland Wetlands Agency approved the wetlands application on June 17, 2026, with 14 conditions."
+      "The proposed Estates at 100 Oakland is a 69-home community for residents 55 and older, on 32.53 acres at 15 Petersen Way, 50 Darlene Drive, and 80, 90 and 100 Oakland Road. The developer is Jim Newbury, president of Bestech Inc. of Connecticut.",
+      "The homes would be single-story, two to three bedrooms, 1,200 to 2,400 square feet. Eleven of the 69 homes would be sold at affordable prices, developer Jim Newbury said.",
+      "The Planning and Zoning Commission held a public hearing on the site-design application (26-29P) on Tuesday, November 10. Eight neighbors spoke against the plan or raised concerns. At 10:30 p.m., the commission voted unanimously to continue the public hearing to a special meeting on Tuesday, December 1, 2026. No vote was taken on the application."
     ],
     "key_figures": [
       {
@@ -185,10 +520,6 @@
       }
     ],
     "timeline": [
-      {
-        "date": "2026-06-17",
-        "text": "Inland Wetlands Agency approves wetlands application with 14 conditions"
-      },
       {
         "date": "2026-11-10",
         "text": "Planning and Zoning Commission public hearing; continued with no decision"
@@ -218,7 +549,7 @@
       {
         "name": "Hartford Business Journal",
         "url": "https://nebusinessmedia.uberflip.com/i/1537782-hbj072825uf/7",
-        "retrieved": "2026-11-09"
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -260,7 +591,7 @@
     "summary": "The Planning and Zoning Commission voted 4-3 on Oct. 27 to reject a zoning-text change that would have allowed religious campuses with housing in residential zones. The proposal was for a campus at 401 King Street.",
     "body": [
       "The Planning and Zoning Commission voted 4-3 on Tuesday, October 27, against a zoning-text amendment that would have allowed religious campuses in residential zones.",
-      "The Golden Lampstand Association proposed a religious campus at 401 King Street, with a ministry building, an eight-room retreat center, and housing for current and retired clergy and returning missionaries, up to 12 units, half of them affordable, with up to 15 percent building coverage and 50 percent impervious surface.",
+      "The Golden Lampstand Association proposed a religious campus at 401 King Street, with a ministry building, an eight-room retreat center, and housing for current and retired clergy and returning missionaries, up to 12 units, with an affordability component, with up to 15 percent building coverage and 50 percent impervious surface.",
       "Commissioners Kilburn, Kupchunos, Welch and Foley voted against the change. Commissioners Lopez and Dexter and Chair Bernstein voted in favor."
     ],
     "key_figures": [
@@ -270,7 +601,7 @@
       },
       {
         "value": "12",
-        "label": "Housing units proposed, half affordable"
+        "label": "Housing units proposed"
       }
     ],
     "timeline": [],
@@ -348,8 +679,7 @@
     "headline": "Girls' soccer season ends with 1-0 loss at Glastonbury",
     "summary": "Girls' soccer lost 1-0 at Glastonbury on Tuesday, Nov. 10, in the CIAC Class LL tournament, ending the season at 8-8-3.",
     "body": [
-      "Girls' soccer lost 1-0 at Glastonbury on Tuesday, November 10, in the CIAC Class LL tournament, ending the season at 8-8-3.",
-      "Glastonbury advanced to a quarterfinal against Cheshire."
+      "Girls' soccer lost 1-0 at Glastonbury on Tuesday, November 10, in the CIAC Class LL tournament, ending the season at 8-8-3."
     ],
     "key_figures": [
       {
@@ -373,7 +703,7 @@
       {
         "name": "MaxPreps",
         "url": "https://www.maxpreps.com/ct/south-windsor/south-windsor-bobcats/soccer/girls/schedule/",
-        "retrieved": "2026-11-11"
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -414,12 +744,12 @@
       {
         "name": "MaxPreps",
         "url": "https://www.maxpreps.com/ct/south-windsor/south-windsor-bobcats/soccer/schedule/",
-        "retrieved": "2026-11-10"
+        "retrieved": "2026-11-14"
       },
       {
         "name": "FCIAC",
         "url": "https://www.fciac.net/1216611/fciac-boys-soccers-ciac-tournament-scoreboard-and-schedule/",
-        "retrieved": "2026-11-10"
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -576,7 +906,7 @@
     "headline": "Flock cameras: Town Council voted to end the contract",
     "summary": "On Oct. 5, 2026, the Town Council voted 6-3 to terminate the Flock camera contract, shut off the cameras, remove them within 60 days, and purge South Windsor data. Another public hearing would be required before reinstalling cameras.",
     "body": [
-      "South Windsor police began using Flock automated license plate reader cameras in April 2025, without public notice. The cameras capture rear plate images with location, date and time.",
+      "South Windsor police began using Flock automated license plate reader cameras in April 2025. The rollout drew widespread concern from residents about how the technology was evaluated and introduced. The cameras capture rear plate images with location, date and time.",
       "After a public debate, the Town Council voted 6-3 on October 5, 2026, to terminate the Flock contract, shut off the cameras, remove them within 60 days, and purge South Windsor data. Another public hearing would be required before cameras could be reinstalled.",
       "The cameras are to be removed by about December 4, 2026, 60 days after the vote.",
       "Police Chief Kristian Lindstrom has said searches require an offense type, a case number and a reason, and that South Windsor data is shared only within Connecticut, not with federal law enforcement. The ACLU and residents have raised data-protection concerns."
@@ -592,10 +922,6 @@
       }
     ],
     "timeline": [
-      {
-        "date": "2023-03-30",
-        "text": "Town signs memorandum of understanding with Flock"
-      },
       {
         "date": "2026-09-08",
         "text": "Town Council debates the cameras"
@@ -615,6 +941,10 @@
     ],
     "links": [
       {
+        "label": "Town Council minutes, Oct. 5",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_10052026-797"
+      },
+      {
         "label": "WTNH",
         "url": "https://www.wtnh.com/news/connecticut/hartford/south-windsor-police-try-to-assuage-fears-of-flock-cameras/"
       }
@@ -622,9 +952,14 @@
     "files": [],
     "sources": [
       {
+        "name": "Town of South Windsor, Town Council minutes, Oct. 5",
+        "url": "https://www.southwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_10052026-797",
+        "retrieved": "2026-11-14"
+      },
+      {
         "name": "WTNH",
         "url": "https://www.wtnh.com/news/connecticut/hartford/south-windsor-police-try-to-assuage-fears-of-flock-cameras/",
-        "retrieved": "2026-11-03"
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -632,7 +967,7 @@
     "id": "crumbling-foundations",
     "section": "still",
     "category": "housing",
-    "item_date": "2026-06-17",
+    "item_date": "",
     "headline": "Crumbling foundations: claims help continues, deadline June 30, 2030",
     "summary": "Help remains available for South Windsor homeowners with crumbling foundations. The Connecticut Foundations Solutions Indemnity Company will not accept new claims after June 30, 2030.",
     "body": [
@@ -657,19 +992,11 @@
     ],
     "timeline": [
       {
-        "date": "2026-06-17",
-        "text": "Town posts update on crumbling foundation claims"
-      },
-      {
         "date": "2030-06-30",
         "text": "CFSIC stops accepting new claims"
       }
     ],
     "links": [
-      {
-        "label": "Town of South Windsor update",
-        "url": "https://www.southwindsor-ct.gov/home/news/june-17-2026-important-update-regarding-crumbling-foundation-claims"
-      },
       {
         "label": "CFSIC South Windsor page",
         "url": "https://crumblingfoundations.org/town/south-windsor/"
@@ -678,14 +1005,9 @@
     "files": [],
     "sources": [
       {
-        "name": "Town of South Windsor",
-        "url": "https://www.southwindsor-ct.gov/home/news/june-17-2026-important-update-regarding-crumbling-foundation-claims",
-        "retrieved": "2026-11-03"
-      },
-      {
         "name": "CFSIC",
         "url": "https://crumblingfoundations.org/town/south-windsor/",
-        "retrieved": "2026-11-03"
+        "retrieved": "2026-11-14"
       }
     ]
   },
@@ -758,7 +1080,7 @@
       "Attorney General: William Tong (D) 7,300; John Bolton (R) 3,702.",
       "Judge of Probate: Mary C. Deneen (D, R) 10,745.",
       "Statewide, Ned Lamont won the governor's race over Ryan Fazio, 739,289 to 516,055.",
-      "All totals are votes cast in South Windsor only. The results are unofficial, from the Connecticut Secretary of the State Election Night Reporting, and match the Town of South Windsor tally sheet."
+      "All totals are votes cast in South Windsor only. The results are unofficial, from the Connecticut Secretary of the State Election Night Reporting."
     ],
     "key_figures": [
       {
