@@ -28,13 +28,6 @@
     "store": "ShopRite of Vernon at Tri City Plaza"
   },
   {
-    "end": "2026-11-14",
-    "flyer_text": "30% OFF Fresh Perdue Poultry",
-    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
-    "start": "2026-11-08",
-    "store": "ShopRite of Vernon at Tri City Plaza"
-  },
-  {
     "end": "2026-11-21",
     "flyer_text": "LOAD SPEND SAVE digital dairy deal (spend $35 participating dairy in one transaction, save $5, thru 11/21, limit 1)",
     "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
@@ -65,6 +58,13 @@
   {
     "end": "2026-11-21",
     "flyer_text": "Chili Meal Deal (buy 1 Bowl & Basket 85% Lean Ground Turkey 48-oz $9.99, get 5 free, save up to $7.26, limit 1 of each item, limit 1 offer, single transaction with card)",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-21",
+    "flyer_text": "40% OFF Sale Wholesome Pantry Fresh Poultry",
     "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
     "start": "2026-11-15",
     "store": "ShopRite of Vernon at Tri City Plaza"

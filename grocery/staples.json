@@ -267,7 +267,7 @@
       "title": "Sausage"
     },
     {
-      "key": "domestic-ham",
+      "key": "",
       "rank": 23,
       "title": "Deli ham"
     },
@@ -377,7 +377,7 @@
       "title": "Celery"
     },
     {
-      "key": "white-cauliflower",
+      "key": "",
       "rank": 45,
       "title": "Cauliflower"
     },
@@ -437,7 +437,7 @@
       "title": "Peanut butter"
     },
     {
-      "key": "grape-jelly",
+      "key": "",
       "rank": 57,
       "title": "Jelly"
     },
@@ -452,7 +452,7 @@
       "title": "Oatmeal"
     },
     {
-      "key": "pancake-mix",
+      "key": "pancake-mix-or-syrup",
       "rank": 60,
       "title": "Pancake mix"
     },
@@ -472,7 +472,7 @@
       "title": "Flour tortillas"
     },
     {
-      "key": "bagels-or-english-muffins",
+      "key": "",
       "rank": 64,
       "title": "Bagels"
     },
@@ -567,7 +567,7 @@
       "title": "Frozen chicken nuggets"
     },
     {
-      "key": "frozen-fruit",
+      "key": "",
       "rank": 83,
       "title": "Frozen berries"
     },
