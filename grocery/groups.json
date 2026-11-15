@@ -2,7 +2,7 @@
   {
     "category": "Bakery",
     "key": "10-in-pumpkin-pie",
-    "replaced_by": "",
+    "replaced_by": "pumpkin-pie",
     "title": "10 In Pumpkin Pie"
   },
   {
@@ -14,8 +14,14 @@
   {
     "category": "Frozen",
     "key": "2-pack-empanadas",
-    "replaced_by": "",
+    "replaced_by": "empanadas",
     "title": "2-Pack Empanadas"
+  },
+  {
+    "category": "Frozen",
+    "key": "empanadas",
+    "replaced_by": "",
+    "title": "Empanadas"
   },
   {
     "category": "Frozen",
@@ -26,14 +32,20 @@
   {
     "category": "Frozen",
     "key": "4-ct-breakfast-sandwiches",
-    "replaced_by": "",
+    "replaced_by": "breakfast-sandwiches",
     "title": "4-Ct. Breakfast Sandwiches"
   },
   {
     "category": "Pantry",
     "key": "4-pack",
-    "replaced_by": "",
+    "replaced_by": "jell-o",
     "title": "4-Pack"
+  },
+  {
+    "category": "Pantry",
+    "key": "jell-o",
+    "replaced_by": "",
+    "title": "Jell-O"
   },
   {
     "category": "Seasonal",
@@ -56,8 +68,14 @@
   {
     "category": "Prepared",
     "key": "8-piece-fried-drums-thighs",
-    "replaced_by": "",
+    "replaced_by": "fried-drums-thighs",
     "title": "8-Piece Fried Drums & Thighs"
+  },
+  {
+    "category": "Prepared",
+    "key": "fried-drums-thighs",
+    "replaced_by": "",
+    "title": "Fried Drums & Thighs"
   },
   {
     "category": "Meat",
@@ -68,13 +86,19 @@
   {
     "category": "Frozen",
     "key": "9-pie-crusts-with-tops",
-    "replaced_by": "",
+    "replaced_by": "pie-crusts-with-tops",
     "title": "9\" Pie Crusts With Tops"
   },
   {
     "category": "Frozen",
-    "key": "9-slice-pizza",
+    "key": "pie-crusts-with-tops",
     "replaced_by": "",
+    "title": "Pie Crusts With Tops"
+  },
+  {
+    "category": "Frozen",
+    "key": "9-slice-pizza",
+    "replaced_by": "pizza",
     "title": "9-Slice Pizza"
   },
   {
@@ -146,7 +170,7 @@
   {
     "category": "Dairy",
     "key": "almondmilk",
-    "replaced_by": "",
+    "replaced_by": "almond-milk",
     "title": "Almondmilk"
   },
   {
@@ -212,8 +236,14 @@
   {
     "category": "Beverages",
     "key": "apple-eve-cranberry-juice-or-northland-100-juice-blends-or-zero-sugar-cranberry-juice-drink",
-    "replaced_by": "",
+    "replaced_by": "cranberry-juice-or-100-juice-blends-or-zero-sugar-cranberry-juice-drink",
     "title": "Apple & Eve Cranberry Juice or Northland 100% Juice Blends or Zero Sugar Cranberry Juice Drink"
+  },
+  {
+    "category": "Beverages",
+    "key": "cranberry-juice-or-100-juice-blends-or-zero-sugar-cranberry-juice-drink",
+    "replaced_by": "",
+    "title": "Cranberry Juice or 100% Juice Blends or Zero Sugar Cranberry Juice Drink"
   },
   {
     "category": "Beverages",
@@ -578,8 +608,14 @@
   {
     "category": "Meat",
     "key": "boneless-pork-loin-combo-pack",
-    "replaced_by": "",
+    "replaced_by": "boneless-pork-loin",
     "title": "Boneless Pork Loin Combo Pack"
+  },
+  {
+    "category": "Meat",
+    "key": "boneless-pork-loin",
+    "replaced_by": "",
+    "title": "Boneless Pork Loin"
   },
   {
     "category": "Meat",
@@ -872,8 +908,14 @@
   {
     "category": "Beverages",
     "key": "celsius-12-pack",
-    "replaced_by": "",
+    "replaced_by": "celsius",
     "title": "Celsius 12 Pack"
+  },
+  {
+    "category": "Beverages",
+    "key": "celsius",
+    "replaced_by": "",
+    "title": "Celsius"
   },
   {
     "category": "Beverages",
@@ -1100,8 +1142,14 @@
   {
     "category": "Meat",
     "key": "chili-meal-deal-bowl-basket-85-lean-ground-turkey",
-    "replaced_by": "",
+    "replaced_by": "chili-meal-deal-85-lean-ground-turkey",
     "title": "Chili Meal Deal - Bowl & Basket 85% Lean Ground Turkey"
+  },
+  {
+    "category": "Meat",
+    "key": "chili-meal-deal-85-lean-ground-turkey",
+    "replaced_by": "",
+    "title": "Chili Meal Deal - 85% Lean Ground Turkey"
   },
   {
     "category": "Snacks",
@@ -1214,8 +1262,14 @@
   {
     "category": "Bakery",
     "key": "cinnamon-rolls-or-crescents-grands-biscuits",
-    "replaced_by": "",
+    "replaced_by": "cinnamon-rolls-or-crescents-biscuits",
     "title": "Cinnamon Rolls or Crescents & Grands! Biscuits"
+  },
+  {
+    "category": "Bakery",
+    "key": "cinnamon-rolls-or-crescents-biscuits",
+    "replaced_by": "",
+    "title": "Cinnamon Rolls or Crescents & Biscuits"
   },
   {
     "category": "Bakery",
@@ -1268,8 +1322,14 @@
   {
     "category": "Beverages",
     "key": "coca-cola-or-topo-chico-multipack",
-    "replaced_by": "",
+    "replaced_by": "coca-cola-or-topo-chico",
     "title": "Coca-Cola or Topo Chico Multipack"
+  },
+  {
+    "category": "Beverages",
+    "key": "coca-cola-or-topo-chico",
+    "replaced_by": "",
+    "title": "Coca-Cola or Topo Chico"
   },
   {
     "category": "Meat",
@@ -1310,32 +1370,62 @@
   {
     "category": "Beverages",
     "key": "coke-2-liter-and-smartwater",
-    "replaced_by": "",
+    "replaced_by": "coke-and-smartwater",
     "title": "Coke 2-Liter and Smartwater"
   },
   {
     "category": "Beverages",
-    "key": "coke-bottles-8-pack-or-cans-12-pack",
+    "key": "coke-and-smartwater",
     "replaced_by": "",
+    "title": "Coke and Smartwater"
+  },
+  {
+    "category": "Beverages",
+    "key": "coke-bottles-8-pack-or-cans-12-pack",
+    "replaced_by": "coke-bottles-or-cans",
     "title": "Coke Bottles 8-Pack or Cans 12-Pack"
   },
   {
     "category": "Beverages",
-    "key": "coke-cans-24-pack",
+    "key": "coke-bottles-or-cans",
     "replaced_by": "",
+    "title": "Coke Bottles or Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "coke-cans-24-pack",
+    "replaced_by": "coke-cans",
     "title": "Coke Cans, 24-Pack"
   },
   {
     "category": "Beverages",
-    "key": "coke-mini-cans-10-pack",
+    "key": "coke-cans",
     "replaced_by": "",
+    "title": "Coke Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "coke-mini-cans-10-pack",
+    "replaced_by": "coke-mini-cans",
     "title": "Coke Mini Cans, 10-Pack"
   },
   {
     "category": "Beverages",
-    "key": "coke-1-25-liter",
+    "key": "coke-mini-cans",
     "replaced_by": "",
+    "title": "Coke Mini Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "coke-1-25-liter",
+    "replaced_by": "coke",
     "title": "Coke, 1.25-Liter"
+  },
+  {
+    "category": "Beverages",
+    "key": "coke",
+    "replaced_by": "",
+    "title": "Coke"
   },
   {
     "category": "Beverages",
@@ -1406,8 +1496,14 @@
   {
     "category": "Health/Beauty",
     "key": "cookies-n-cream-protein-bar-4-count",
-    "replaced_by": "",
+    "replaced_by": "cookies-n-cream-protein-bar",
     "title": "Cookies 'N Cream Protein Bar, 4 Count"
+  },
+  {
+    "category": "Health/Beauty",
+    "key": "cookies-n-cream-protein-bar",
+    "replaced_by": "",
+    "title": "Cookies 'N Cream Protein Bar"
   },
   {
     "category": "Frozen",
@@ -1460,8 +1556,14 @@
   {
     "category": "Bakery",
     "key": "corn-toast-r-cakes-6-pack-or-swirl-bread",
-    "replaced_by": "",
+    "replaced_by": "corn-toast-r-cakes-or-swirl-bread",
     "title": "Corn Toast-R-Cakes 6-Pack or Swirl Bread"
+  },
+  {
+    "category": "Bakery",
+    "key": "corn-toast-r-cakes-or-swirl-bread",
+    "replaced_by": "",
+    "title": "Corn Toast-R-Cakes or Swirl Bread"
   },
   {
     "category": "Frozen",
@@ -1490,8 +1592,14 @@
   {
     "category": "Meat",
     "key": "country-style-ham-smoked-boneless-5-to-7-lb-avg",
-    "replaced_by": "",
+    "replaced_by": "country-style-ham-smoked-boneless",
     "title": "Country Style Ham Smoked, Boneless, 5 to 7-lb. Avg."
+  },
+  {
+    "category": "Meat",
+    "key": "country-style-ham-smoked-boneless",
+    "replaced_by": "",
+    "title": "Country Style Ham Smoked, Boneless"
   },
   {
     "category": "Meat",
@@ -1622,7 +1730,7 @@
   {
     "category": "Dairy",
     "key": "creamer",
-    "replaced_by": "",
+    "replaced_by": "creamers",
     "title": "Creamer"
   },
   {
@@ -1694,8 +1802,14 @@
   {
     "category": "Bakery",
     "key": "dave-s-killer-organic-bagels-bread-buns-or-muffins",
-    "replaced_by": "",
+    "replaced_by": "organic-bagels-bread-buns-or-muffins",
     "title": "Dave's Killer Organic Bagels, Bread, Buns or Muffins"
+  },
+  {
+    "category": "Bakery",
+    "key": "organic-bagels-bread-buns-or-muffins",
+    "replaced_by": "",
+    "title": "Organic Bagels, Bread, Buns or Muffins"
   },
   {
     "category": "Frozen",
@@ -1784,8 +1898,14 @@
   {
     "category": "Pantry",
     "key": "donuts-or-family-pack-cakes",
-    "replaced_by": "",
+    "replaced_by": "donuts-or-cakes",
     "title": "Donuts or Family Pack Cakes"
+  },
+  {
+    "category": "Pantry",
+    "key": "donuts-or-cakes",
+    "replaced_by": "",
+    "title": "Donuts or Cakes"
   },
   {
     "category": "Frozen",
@@ -1922,7 +2042,7 @@
   {
     "category": "Bakery",
     "key": "english-muffins-6-pack",
-    "replaced_by": "",
+    "replaced_by": "english-muffins",
     "title": "English Muffins 6-Pack"
   },
   {
@@ -2012,8 +2132,14 @@
   {
     "category": "Pantry",
     "key": "family-pack-flour-tortillas",
-    "replaced_by": "",
+    "replaced_by": "flour-tortillas",
     "title": "Family Pack Flour Tortillas"
+  },
+  {
+    "category": "Pantry",
+    "key": "flour-tortillas",
+    "replaced_by": "",
+    "title": "Flour Tortillas"
   },
   {
     "category": "Bakery",
@@ -2306,8 +2432,14 @@
   {
     "category": "Dairy",
     "key": "fruit-on-the-bottom-variety-pack",
-    "replaced_by": "",
+    "replaced_by": "fruit-on-the-bottom",
     "title": "Fruit On the Bottom Variety Pack"
+  },
+  {
+    "category": "Dairy",
+    "key": "fruit-on-the-bottom",
+    "replaced_by": "",
+    "title": "Fruit On the Bottom"
   },
   {
     "category": "Snacks",
@@ -2360,8 +2492,14 @@
   {
     "category": "Pantry",
     "key": "gel-food-color-4-count",
-    "replaced_by": "",
+    "replaced_by": "gel-food-color",
     "title": "Gel Food Color - 4 Count"
+  },
+  {
+    "category": "Pantry",
+    "key": "gel-food-color",
+    "replaced_by": "",
+    "title": "Gel Food Color"
   },
   {
     "category": "Pantry",
@@ -2402,26 +2540,44 @@
   {
     "category": "Beverages",
     "key": "ginger-ale-cans-24-pack",
-    "replaced_by": "",
+    "replaced_by": "ginger-ale-cans",
     "title": "Ginger Ale Cans, 24-Pack"
   },
   {
     "category": "Beverages",
-    "key": "ginger-ale-mini-cans-10-pack",
+    "key": "ginger-ale-cans",
     "replaced_by": "",
+    "title": "Ginger Ale Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "ginger-ale-mini-cans-10-pack",
+    "replaced_by": "ginger-ale-mini-cans",
     "title": "Ginger Ale Mini Cans, 10-Pack"
   },
   {
     "category": "Beverages",
-    "key": "ginger-ale-1-25-liter",
+    "key": "ginger-ale-mini-cans",
     "replaced_by": "",
+    "title": "Ginger Ale Mini Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "ginger-ale-1-25-liter",
+    "replaced_by": "ginger-ale",
     "title": "Ginger Ale, 1.25-Liter"
   },
   {
     "category": "Beverages",
     "key": "ginger-ale-bottles-8-pack-or-cans-12-pack",
-    "replaced_by": "",
+    "replaced_by": "ginger-ale-bottles-or-cans",
     "title": "Ginger Ale, Bottles 8-Pack or Cans 12-Pack"
+  },
+  {
+    "category": "Beverages",
+    "key": "ginger-ale-bottles-or-cans",
+    "replaced_by": "",
+    "title": "Ginger Ale, Bottles or Cans"
   },
   {
     "category": "Beverages",
@@ -2432,8 +2588,14 @@
   {
     "category": "Dairy",
     "key": "giovanni-rana-fresh-filled-pasta",
-    "replaced_by": "",
+    "replaced_by": "fresh-filled-pasta",
     "title": "Giovanni Rana Fresh Filled Pasta"
+  },
+  {
+    "category": "Dairy",
+    "key": "fresh-filled-pasta",
+    "replaced_by": "",
+    "title": "Fresh Filled Pasta"
   },
   {
     "category": "Produce",
@@ -2450,8 +2612,14 @@
   {
     "category": "Health/Beauty",
     "key": "gluten-free-golden-vanilla-cream-protein-bar-4-count",
-    "replaced_by": "",
+    "replaced_by": "gluten-free-golden-vanilla-cream-protein-bar",
     "title": "Gluten Free Golden Vanilla Cream Protein Bar, 4 Count"
+  },
+  {
+    "category": "Health/Beauty",
+    "key": "gluten-free-golden-vanilla-cream-protein-bar",
+    "replaced_by": "",
+    "title": "Gluten Free Golden Vanilla Cream Protein Bar"
   },
   {
     "category": "Pantry",
@@ -2492,7 +2660,7 @@
   {
     "category": "Bakery",
     "key": "gourmet-club-pack-chocolate-chunk-cookies",
-    "replaced_by": "",
+    "replaced_by": "gourmet-chocolate-chunk-cookies",
     "title": "Gourmet Club Pack Chocolate Chunk Cookies"
   },
   {
@@ -2792,8 +2960,14 @@
   {
     "category": "Meat",
     "key": "hillshire-farms-turkey-kielbasa",
-    "replaced_by": "",
+    "replaced_by": "turkey-kielbasa",
     "title": "Hillshire Farms Turkey Kielbasa"
+  },
+  {
+    "category": "Meat",
+    "key": "turkey-kielbasa",
+    "replaced_by": "",
+    "title": "Turkey Kielbasa"
   },
   {
     "category": "Seasonal",
@@ -3068,7 +3242,7 @@
   {
     "category": "Dairy",
     "key": "kerrygold",
-    "replaced_by": "",
+    "replaced_by": "butter",
     "title": "Kerrygold"
   },
   {
@@ -3110,8 +3284,14 @@
   {
     "category": "Beverages",
     "key": "kool-aid-jammers-10-pack",
-    "replaced_by": "",
+    "replaced_by": "kool-aid-jammers",
     "title": "Kool-Aid Jammers 10 Pack"
+  },
+  {
+    "category": "Beverages",
+    "key": "kool-aid-jammers",
+    "replaced_by": "",
+    "title": "Kool-Aid Jammers"
   },
   {
     "category": "Dairy",
@@ -3656,14 +3836,26 @@
   {
     "category": "Beverages",
     "key": "nectar-sparkling-juice-cocktail-9-pack-red-grape",
-    "replaced_by": "",
+    "replaced_by": "nectar-sparkling-juice-cocktail-red-grape",
     "title": "Nectar Sparkling Juice Cocktail 9-Pack, Red Grape"
   },
   {
     "category": "Beverages",
-    "key": "nectar-sparkling-juice-cocktail-9-pack-white-grape",
+    "key": "nectar-sparkling-juice-cocktail-red-grape",
     "replaced_by": "",
+    "title": "Nectar Sparkling Juice Cocktail, Red Grape"
+  },
+  {
+    "category": "Beverages",
+    "key": "nectar-sparkling-juice-cocktail-9-pack-white-grape",
+    "replaced_by": "nectar-sparkling-juice-cocktail-white-grape",
     "title": "Nectar Sparkling Juice Cocktail 9-Pack, White Grape"
+  },
+  {
+    "category": "Beverages",
+    "key": "nectar-sparkling-juice-cocktail-white-grape",
+    "replaced_by": "",
+    "title": "Nectar Sparkling Juice Cocktail, White Grape"
   },
   {
     "category": "Frozen",
@@ -3824,7 +4016,7 @@
   {
     "category": "Dairy",
     "key": "organic-creamer",
-    "replaced_by": "",
+    "replaced_by": "creamers",
     "title": "Organic Creamer"
   },
   {
@@ -3860,8 +4052,14 @@
   {
     "category": "Dairy",
     "key": "organic-pouch-multipack",
-    "replaced_by": "",
+    "replaced_by": "organic-pouch",
     "title": "Organic Pouch Multipack"
+  },
+  {
+    "category": "Dairy",
+    "key": "organic-pouch",
+    "replaced_by": "",
+    "title": "Organic Pouch"
   },
   {
     "category": "Meat",
@@ -3926,7 +4124,7 @@
   {
     "category": "Produce",
     "key": "pom-pomegranates",
-    "replaced_by": "",
+    "replaced_by": "pomegranates",
     "title": "POM Pomegranates"
   },
   {
@@ -4106,25 +4304,37 @@
   {
     "category": "Beverages",
     "key": "pepsi-bottles-6-pack",
-    "replaced_by": "",
+    "replaced_by": "pepsi-bottles",
     "title": "Pepsi Bottles 6-Pack"
   },
   {
     "category": "Beverages",
-    "key": "pepsi-bottles-8-pack-or-cans-12-pack",
+    "key": "pepsi-bottles",
     "replaced_by": "",
+    "title": "Pepsi Bottles"
+  },
+  {
+    "category": "Beverages",
+    "key": "pepsi-bottles-8-pack-or-cans-12-pack",
+    "replaced_by": "pepsi-bottles-or-cans",
     "title": "Pepsi Bottles 8-Pack or Cans 12-Pack"
   },
   {
     "category": "Beverages",
-    "key": "pepsi-multipack",
+    "key": "pepsi-bottles-or-cans",
     "replaced_by": "",
+    "title": "Pepsi Bottles or Cans"
+  },
+  {
+    "category": "Beverages",
+    "key": "pepsi-multipack",
+    "replaced_by": "pepsi",
     "title": "Pepsi Multipack"
   },
   {
     "category": "Beverages",
     "key": "pepsi-2-liter",
-    "replaced_by": "",
+    "replaced_by": "pepsi",
     "title": "Pepsi, 2-Liter"
   },
   {
@@ -4196,8 +4406,14 @@
   {
     "category": "Seafood",
     "key": "pier-33-gourmet-mussels-or-stuffed-clams",
-    "replaced_by": "",
+    "replaced_by": "gourmet-mussels-or-stuffed-clams",
     "title": "Pier 33 Gourmet Mussels or Stuffed Clams"
+  },
+  {
+    "category": "Seafood",
+    "key": "gourmet-mussels-or-stuffed-clams",
+    "replaced_by": "",
+    "title": "Gourmet Mussels or Stuffed Clams"
   },
   {
     "category": "Frozen",
@@ -4274,13 +4490,13 @@
   {
     "category": "Beverages",
     "key": "poland-spring-water",
-    "replaced_by": "",
+    "replaced_by": "spring-water",
     "title": "Poland Spring Water"
   },
   {
     "category": "Beverages",
     "key": "poland-spring-water-3-liter",
-    "replaced_by": "",
+    "replaced_by": "spring-water",
     "title": "Poland Spring Water, 3-Liter"
   },
   {
@@ -4772,8 +4988,14 @@
   {
     "category": "Pantry",
     "key": "rocher-12pc",
-    "replaced_by": "",
+    "replaced_by": "rocher",
     "title": "Rocher 12pc"
+  },
+  {
+    "category": "Pantry",
+    "key": "rocher",
+    "replaced_by": "",
+    "title": "Rocher"
   },
   {
     "category": "Snacks",
@@ -5000,14 +5222,20 @@
   {
     "category": "Beverages",
     "key": "seltzer-1-liter",
-    "replaced_by": "",
+    "replaced_by": "seltzer",
     "title": "Seltzer 1-Liter"
   },
   {
     "category": "Beverages",
     "key": "seltzer-cans-12-pack",
-    "replaced_by": "",
+    "replaced_by": "seltzer-cans",
     "title": "Seltzer Cans, 12-Pack"
+  },
+  {
+    "category": "Beverages",
+    "key": "seltzer-cans",
+    "replaced_by": "",
+    "title": "Seltzer Cans"
   },
   {
     "category": "Beverages",
@@ -5018,7 +5246,7 @@
   {
     "category": "Beverages",
     "key": "seltzer-12-pack",
-    "replaced_by": "",
+    "replaced_by": "seltzer",
     "title": "Seltzer, 12-Pack"
   },
   {
@@ -5456,8 +5684,14 @@
   {
     "category": "Bakery",
     "key": "store-baked-all-butter-mini-croissants-8-ct-or-4-ct",
-    "replaced_by": "",
+    "replaced_by": "store-baked-all-butter-mini-croissants",
     "title": "Store Baked All Butter Mini Croissants 8-ct. or 4-ct."
+  },
+  {
+    "category": "Bakery",
+    "key": "store-baked-all-butter-mini-croissants",
+    "replaced_by": "",
+    "title": "Store Baked All Butter Mini Croissants"
   },
   {
     "category": "Bakery",
@@ -5774,8 +6008,14 @@
   {
     "category": "Bakery",
     "key": "tres-leches-1-4-sheet-cake",
-    "replaced_by": "",
+    "replaced_by": "tres-leches-cake",
     "title": "Tres Leches 1/4 Sheet Cake"
+  },
+  {
+    "category": "Bakery",
+    "key": "tres-leches-cake",
+    "replaced_by": "",
+    "title": "Tres Leches Cake"
   },
   {
     "category": "Bakery",
@@ -5876,7 +6116,7 @@
   {
     "category": "Meat",
     "key": "twin-pack-ham-steaks",
-    "replaced_by": "",
+    "replaced_by": "ham-steak",
     "title": "Twin Pack Ham Steaks"
   },
   {
@@ -6068,8 +6308,14 @@
   {
     "category": "Meat",
     "key": "whole-duck-per-lb",
-    "replaced_by": "",
+    "replaced_by": "whole-duck",
     "title": "Whole Duck, Per Lb"
+  },
+  {
+    "category": "Meat",
+    "key": "whole-duck",
+    "replaced_by": "",
+    "title": "Whole Duck"
   },
   {
     "category": "Meat",
@@ -6116,8 +6362,14 @@
   {
     "category": "Pantry",
     "key": "writing-icing-4-count",
-    "replaced_by": "",
+    "replaced_by": "writing-icing",
     "title": "Writing Icing - 4 Count"
+  },
+  {
+    "category": "Pantry",
+    "key": "writing-icing",
+    "replaced_by": "",
+    "title": "Writing Icing"
   },
   {
     "category": "Frozen",

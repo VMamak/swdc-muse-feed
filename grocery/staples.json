@@ -4,545 +4,807 @@
       "end": "2026-11-26",
       "key": "frozen-whole-turkey",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Whole turkey"
     },
     {
       "end": "2026-11-26",
       "key": "turkey-breast",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Turkey breast"
     },
     {
       "end": "2026-11-26",
       "key": "cranberries",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Fresh cranberries"
     },
     {
       "end": "2026-11-26",
       "key": "cranberry-sauce",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Cranberry sauce"
     },
     {
       "end": "2026-11-26",
       "key": "stuffing",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Stuffing mix"
     },
     {
       "end": "2026-11-26",
       "key": "canned-pumpkin",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Canned pumpkin"
     },
     {
       "end": "2026-11-26",
       "key": "pumpkin-pie-mix",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Pumpkin pie filling"
     },
     {
       "end": "2026-11-26",
       "key": "pie-crust",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Pie crust"
     },
     {
       "end": "2026-11-26",
       "key": "sweet-potatoes",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Sweet potatoes"
     },
     {
       "end": "2026-11-26",
       "key": "green-beans",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Green beans"
     },
     {
       "end": "2026-11-26",
       "key": "dinner-rolls",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Dinner rolls"
     },
     {
       "end": "2026-11-26",
       "key": "gravy",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Gravy"
     },
     {
       "end": "2026-11-26",
       "key": "turkey-stock",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Turkey broth"
     },
     {
       "end": "2026-11-26",
       "key": "heavy-cream",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Heavy cream"
     },
     {
       "end": "2026-11-26",
       "key": "cool-whip",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Whipped topping"
     },
     {
       "end": "2026-11-26",
       "key": "pecans",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Pecans"
     },
     {
       "end": "2026-11-26",
       "key": "marshmallows",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Marshmallows"
+    },
+    {
+      "end": "2026-11-26",
+      "key": "",
+      "season": "Thanksgiving",
+      "start": "2026-11-16",
+      "title": "Fresh sage"
+    },
+    {
+      "end": "2026-11-26",
+      "key": "",
+      "season": "Thanksgiving",
+      "start": "2026-11-16",
+      "title": "Fresh rosemary"
+    },
+    {
+      "end": "2026-11-26",
+      "key": "",
+      "season": "Thanksgiving",
+      "start": "2026-11-16",
+      "title": "Fresh thyme"
     },
     {
       "end": "2026-11-26",
       "key": "sparkling-cider",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Sparkling cider"
     },
     {
       "end": "2026-11-26",
-      "key": "sweet-potatoes",
+      "key": "",
       "season": "Thanksgiving",
-      "start": "2026-11-16"
+      "start": "2026-11-16",
+      "title": "Canned yams"
     }
   ],
   "staples": [
     {
       "key": "milk",
-      "rank": 1
+      "rank": 1,
+      "title": "Milk"
     },
     {
       "key": "eggs",
-      "rank": 2
+      "rank": 2,
+      "title": "Eggs"
     },
     {
-      "key": "bread-or-rolls",
-      "rank": 3
+      "key": "bread",
+      "rank": 3,
+      "title": "Bread"
+    },
+    {
+      "key": "",
+      "rank": 4,
+      "title": "Bananas"
     },
     {
       "key": "chicken-breast",
-      "rank": 5
+      "rank": 5,
+      "title": "Chicken breast"
     },
     {
       "key": "80-lean-ground-beef",
-      "rank": 6
+      "rank": 6,
+      "title": "Ground beef"
     },
     {
       "key": "butter",
-      "rank": 7
+      "rank": 7,
+      "title": "Butter"
     },
     {
       "key": "cheddar-cheese",
-      "rank": 8
+      "rank": 8,
+      "title": "Cheddar cheese"
     },
     {
       "key": "potatoes",
-      "rank": 9
+      "rank": 9,
+      "title": "Potatoes"
     },
     {
       "key": "onions",
-      "rank": 10
+      "rank": 10,
+      "title": "Onions"
     },
     {
       "key": "apples",
-      "rank": 11
+      "rank": 11,
+      "title": "Apples"
     },
     {
       "key": "rice",
-      "rank": 12
+      "rank": 12,
+      "title": "White rice"
     },
     {
       "key": "pasta",
-      "rank": 13
+      "rank": 13,
+      "title": "Spaghetti"
     },
     {
       "key": "ground-coffee",
-      "rank": 14
+      "rank": 14,
+      "title": "Ground coffee"
     },
     {
       "key": "sugar",
-      "rank": 15
+      "rank": 15,
+      "title": "Sugar"
     },
     {
       "key": "tomatoes",
-      "rank": 16
+      "rank": 16,
+      "title": "Tomatoes"
+    },
+    {
+      "key": "",
+      "rank": 17,
+      "title": "Lettuce"
+    },
+    {
+      "key": "",
+      "rank": 18,
+      "title": "Carrots"
     },
     {
       "key": "chicken-thighs",
-      "rank": 19
+      "rank": 19,
+      "title": "Chicken thighs"
     },
     {
       "key": "bacon",
-      "rank": 20
+      "rank": 20,
+      "title": "Bacon"
     },
     {
       "key": "pork-chops",
-      "rank": 21
+      "rank": 21,
+      "title": "Pork chops"
     },
     {
       "key": "sausage",
-      "rank": 22
+      "rank": 22,
+      "title": "Sausage"
     },
     {
       "key": "domestic-ham",
-      "rank": 23
+      "rank": 23,
+      "title": "Deli ham"
     },
     {
       "key": "turkey-breast",
-      "rank": 24
+      "rank": 24,
+      "title": "Deli turkey"
     },
     {
       "key": "yogurt",
-      "rank": 25
+      "rank": 25,
+      "title": "Yogurt"
     },
     {
       "key": "cream-cheese",
-      "rank": 26
+      "rank": 26,
+      "title": "Cream cheese"
     },
     {
       "key": "sour-cream",
-      "rank": 27
+      "rank": 27,
+      "title": "Sour cream"
     },
     {
       "key": "orange-juice",
-      "rank": 28
+      "rank": 28,
+      "title": "Orange juice"
     },
     {
       "key": "lemons",
-      "rank": 29
+      "rank": 29,
+      "title": "Lemons"
     },
     {
       "key": "peeled-garlic",
-      "rank": 30
+      "rank": 30,
+      "title": "Garlic"
     },
     {
       "key": "hothouse-bell-peppers",
-      "rank": 31
+      "rank": 31,
+      "title": "Bell peppers"
     },
     {
       "key": "hothouse-cucumbers",
-      "rank": 32
+      "rank": 32,
+      "title": "Cucumbers"
     },
     {
       "key": "broccoli",
-      "rank": 33
+      "rank": 33,
+      "title": "Broccoli"
     },
     {
       "key": "cooking-greens-or-spinach",
-      "rank": 34
+      "rank": 34,
+      "title": "Spinach"
+    },
+    {
+      "key": "",
+      "rank": 35,
+      "title": "Strawberries"
     },
     {
       "key": "blueberries",
-      "rank": 36
+      "rank": 36,
+      "title": "Blueberries"
+    },
+    {
+      "key": "",
+      "rank": 37,
+      "title": "Grapes"
     },
     {
       "key": "navel-oranges",
-      "rank": 38
+      "rank": 38,
+      "title": "Oranges"
     },
     {
       "key": "avocados",
-      "rank": 39
+      "rank": 39,
+      "title": "Avocados"
+    },
+    {
+      "key": "",
+      "rank": 40,
+      "title": "Corn"
     },
     {
       "key": "green-beans",
-      "rank": 41
+      "rank": 41,
+      "title": "Green beans"
     },
     {
       "key": "sweet-potatoes",
-      "rank": 42
+      "rank": 42,
+      "title": "Sweet potatoes"
     },
     {
       "key": "white-mushrooms",
-      "rank": 43
+      "rank": 43,
+      "title": "Mushrooms"
     },
     {
       "key": "fresh-celery",
-      "rank": 44
+      "rank": 44,
+      "title": "Celery"
     },
     {
       "key": "white-cauliflower",
-      "rank": 45
+      "rank": 45,
+      "title": "Cauliflower"
+    },
+    {
+      "key": "",
+      "rank": 46,
+      "title": "Zucchini"
     },
     {
       "key": "locally-grown-green-cabbage",
-      "rank": 47
+      "rank": 47,
+      "title": "Cabbage"
     },
     {
       "key": "flour",
-      "rank": 48
+      "rank": 48,
+      "title": "Flour"
     },
     {
       "key": "pure-vegetable-oil",
-      "rank": 49
+      "rank": 49,
+      "title": "Vegetable oil"
     },
     {
       "key": "olive-oil",
-      "rank": 50
+      "rank": 50,
+      "title": "Olive oil"
     },
     {
       "key": "salt-pepper-grinders",
-      "rank": 51
+      "rank": 51,
+      "title": "Salt"
     },
     {
       "key": "salt-pepper-grinders",
-      "rank": 52
+      "rank": 52,
+      "title": "Black pepper"
+    },
+    {
+      "key": "",
+      "rank": 53,
+      "title": "Ketchup"
     },
     {
       "key": "mayonnaise",
-      "rank": 54
+      "rank": 54,
+      "title": "Mayonnaise"
+    },
+    {
+      "key": "",
+      "rank": 55,
+      "title": "Mustard"
     },
     {
       "key": "peanut-butter",
-      "rank": 56
+      "rank": 56,
+      "title": "Peanut butter"
     },
     {
       "key": "grape-jelly",
-      "rank": 57
+      "rank": 57,
+      "title": "Jelly"
     },
     {
       "key": "cereal",
-      "rank": 58
+      "rank": 58,
+      "title": "Cereal"
     },
     {
       "key": "instant-oatmeal",
-      "rank": 59
+      "rank": 59,
+      "title": "Oatmeal"
     },
     {
       "key": "pancake-mix",
-      "rank": 60
+      "rank": 60,
+      "title": "Pancake mix"
     },
     {
       "key": "pancake-mix-or-syrup",
-      "rank": 61
+      "rank": 61,
+      "title": "Maple syrup"
     },
     {
       "key": "raw-unfiltered-honey-bear",
-      "rank": 62
+      "rank": 62,
+      "title": "Honey"
     },
     {
-      "key": "family-pack-flour-tortillas",
-      "rank": 63
+      "key": "flour-tortillas",
+      "rank": 63,
+      "title": "Flour tortillas"
     },
     {
       "key": "bagels-or-english-muffins",
-      "rank": 64
+      "rank": 64,
+      "title": "Bagels"
     },
     {
       "key": "english-muffins",
-      "rank": 65
+      "rank": 65,
+      "title": "English muffins"
     },
     {
       "key": "buns-or-rolls",
-      "rank": 66
+      "rank": 66,
+      "title": "Hamburger buns"
     },
     {
       "key": "buns-or-rolls",
-      "rank": 67
+      "rank": 67,
+      "title": "Hot dog buns"
     },
     {
       "key": "crackers",
-      "rank": 68
+      "rank": 68,
+      "title": "Crackers"
     },
     {
       "key": "chips",
-      "rank": 69
+      "rank": 69,
+      "title": "Potato chips"
     },
     {
       "key": "salsa",
-      "rank": 70
+      "rank": 70,
+      "title": "Salsa"
     },
     {
       "key": "canned-tomatoes",
-      "rank": 71
+      "rank": 71,
+      "title": "Canned tomatoes"
     },
     {
       "key": "beans",
-      "rank": 72
+      "rank": 72,
+      "title": "Canned beans"
     },
     {
       "key": "chunk-light-tuna",
-      "rank": 73
+      "rank": 73,
+      "title": "Canned tuna"
     },
     {
       "key": "chicken-broth",
-      "rank": 74
+      "rank": 74,
+      "title": "Chicken broth"
+    },
+    {
+      "key": "",
+      "rank": 75,
+      "title": "Beef broth"
     },
     {
       "key": "pasta-sauce",
-      "rank": 76
+      "rank": 76,
+      "title": "Pasta sauce"
     },
     {
       "key": "low-sodium-soy-sauce",
-      "rank": 77
+      "rank": 77,
+      "title": "Soy sauce"
     },
     {
       "key": "salad-dressing",
-      "rank": 78
+      "rank": 78,
+      "title": "Salad dressing"
     },
     {
-      "key": "whole-pickles-or-pickle-chips",
-      "rank": 79
+      "key": "pickles",
+      "rank": 79,
+      "title": "Pickles"
     },
     {
       "key": "frozen-vegetables",
-      "rank": 80
+      "rank": 80,
+      "title": "Frozen mixed vegetables"
     },
     {
       "key": "pizza",
-      "rank": 81
+      "rank": 81,
+      "title": "Frozen pizza"
     },
     {
       "key": "chicken-nuggets",
-      "rank": 82
+      "rank": 82,
+      "title": "Frozen chicken nuggets"
     },
     {
       "key": "frozen-fruit",
-      "rank": 83
+      "rank": 83,
+      "title": "Frozen berries"
     },
     {
       "key": "ice-cream",
-      "rank": 84
+      "rank": 84,
+      "title": "Ice cream"
     },
     {
       "key": "fries",
-      "rank": 85
+      "rank": 85,
+      "title": "Frozen french fries"
     },
     {
-      "key": "chili-meal-deal-bowl-basket-85-lean-ground-turkey",
-      "rank": 86
+      "key": "",
+      "rank": 86,
+      "title": "Ground turkey"
     },
     {
       "key": "top-sirloin-coulotte",
-      "rank": 87
+      "rank": 87,
+      "title": "Sirloin steak"
     },
     {
       "key": "salmon",
-      "rank": 88
+      "rank": 88,
+      "title": "Salmon"
     },
     {
       "key": "shrimp",
-      "rank": 89
+      "rank": 89,
+      "title": "Shrimp"
     },
     {
       "key": "alaska-cod-fillets",
-      "rank": 90
+      "rank": 90,
+      "title": "Cod"
     },
     {
       "key": "whole-chicken",
-      "rank": 91
+      "rank": 91,
+      "title": "Whole chicken"
     },
     {
       "key": "pulled-rotisserie-chicken",
-      "rank": 92
+      "rank": 92,
+      "title": "Rotisserie chicken"
     },
     {
       "key": "natural-cheese-slices",
-      "rank": 93
+      "rank": 93,
+      "title": "Sliced cheese"
     },
     {
       "key": "shredded-cheese",
-      "rank": 94
+      "rank": 94,
+      "title": "Shredded cheese"
     },
     {
       "key": "cottage-cheese",
-      "rank": 95
+      "rank": 95,
+      "title": "Cottage cheese"
     },
     {
       "key": "heavy-cream",
-      "rank": 96
+      "rank": 96,
+      "title": "Heavy cream"
     },
     {
       "key": "half-half",
-      "rank": 97
+      "rank": 97,
+      "title": "Half and half"
     },
     {
       "key": "tea-bags",
-      "rank": 98
+      "rank": 98,
+      "title": "Tea"
     },
     {
       "key": "soda",
-      "rank": 99
+      "rank": 99,
+      "title": "Soda"
     },
     {
       "key": "spring-water",
-      "rank": 100
+      "rank": 100,
+      "title": "Bottled water"
     },
     {
       "key": "seltzer",
-      "rank": 101
+      "rank": 101,
+      "title": "Seltzer"
     },
     {
       "key": "apple-juice",
-      "rank": 102
+      "rank": 102,
+      "title": "Apple juice"
     },
     {
       "key": "lemonade-drinks",
-      "rank": 103
+      "rank": 103,
+      "title": "Lemonade"
     },
     {
       "key": "granola-bars",
-      "rank": 104
+      "rank": 104,
+      "title": "Granola bars"
     },
     {
       "key": "cookies",
-      "rank": 105
+      "rank": 105,
+      "title": "Cookies"
     },
     {
       "key": "cake-mix",
-      "rank": 106
+      "rank": 106,
+      "title": "Cake mix"
     },
     {
       "key": "baking-chips",
-      "rank": 107
+      "rank": 107,
+      "title": "Chocolate chips"
+    },
+    {
+      "key": "",
+      "rank": 108,
+      "title": "Baking powder"
     },
     {
       "key": "vanilla-extract",
-      "rank": 109
+      "rank": 109,
+      "title": "Vanilla extract"
+    },
+    {
+      "key": "",
+      "rank": 110,
+      "title": "Vinegar"
+    },
+    {
+      "key": "",
+      "rank": 111,
+      "title": "Hot sauce"
+    },
+    {
+      "key": "",
+      "rank": 112,
+      "title": "Barbecue sauce"
+    },
+    {
+      "key": "",
+      "rank": 113,
+      "title": "Ranch dressing"
     },
     {
       "key": "hummus",
-      "rank": 114
+      "rank": 114,
+      "title": "Hummus"
     },
     {
       "key": "almonds",
-      "rank": 115
+      "rank": 115,
+      "title": "Almonds"
+    },
+    {
+      "key": "",
+      "rank": 116,
+      "title": "Raisins"
     },
     {
       "key": "popcorn",
-      "rank": 117
+      "rank": 117,
+      "title": "Popcorn"
     },
     {
       "key": "pretzels",
-      "rank": 118
+      "rank": 118,
+      "title": "Pretzels"
+    },
+    {
+      "key": "",
+      "rank": 119,
+      "title": "Brown rice"
+    },
+    {
+      "key": "",
+      "rank": 120,
+      "title": "Quinoa"
     },
     {
       "key": "mac-cheese",
-      "rank": 121
+      "rank": 121,
+      "title": "Macaroni and cheese"
     },
     {
       "key": "soup",
-      "rank": 122
+      "rank": 122,
+      "title": "Canned soup"
     },
     {
       "key": "limes",
-      "rank": 123
+      "rank": 123,
+      "title": "Limes"
+    },
+    {
+      "key": "",
+      "rank": 124,
+      "title": "Jalapeños"
+    },
+    {
+      "key": "",
+      "rank": 125,
+      "title": "Green onions"
+    },
+    {
+      "key": "",
+      "rank": 126,
+      "title": "Asparagus"
+    },
+    {
+      "key": "",
+      "rank": 127,
+      "title": "Brussels sprouts"
+    },
+    {
+      "key": "",
+      "rank": 128,
+      "title": "Brown sugar"
     },
     {
       "key": "badia-cinnamon-sticks",
-      "rank": 129
+      "rank": 129,
+      "title": "Cinnamon"
     },
     {
       "key": "whole-kernel-corn",
-      "rank": 130
+      "rank": 130,
+      "title": "Canned corn"
     }
   ]
 }
