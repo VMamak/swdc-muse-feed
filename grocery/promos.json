@@ -1,23 +1,72 @@
 [
   {
-    "store": "Stop & Shop",
+    "end": "2026-11-19",
     "flyer_text": "Store will match any competitor's advertised frozen turkey price Nov 13–19 (limit 1 per household)",
+    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1",
     "start": "2026-11-13",
-    "end": "2026-11-19",
-    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1"
+    "store": "Stop & Shop"
   },
   {
-    "store": "Stop & Shop",
+    "end": "2026-11-19",
     "flyer_text": "Thanksgiving feast for 8 UNDER $40",
+    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1",
     "start": "2026-11-13",
-    "end": "2026-11-19",
-    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1"
+    "store": "Stop & Shop"
   },
   {
-    "store": "Stop & Shop",
-    "flyer_text": "Save $5 when you spend $15 on participating Kraft/Heinz items",
-    "start": "2026-11-13",
     "end": "2026-11-19",
-    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1"
+    "flyer_text": "Save $5 when you spend $15 on participating Kraft/Heinz items",
+    "page_url": "https://circular.stopandshop.com/flyers/accessibility/stopandshop-weekly?flyer_run_id=896176&postal_code=06514&store_code=0638&type=1",
+    "start": "2026-11-13",
+    "store": "Stop & Shop"
+  },
+  {
+    "end": "2026-11-26",
+    "flyer_text": "FREE Holiday Favorite Thanksgiving (spend $400 Oct 25-Nov 26, limit 1 item per family, pick up by Nov 26)",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-10-25",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-14",
+    "flyer_text": "30% OFF Fresh Perdue Poultry",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-08",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-21",
+    "flyer_text": "LOAD SPEND SAVE digital dairy deal (spend $35 participating dairy in one transaction, save $5, thru 11/21, limit 1)",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-28",
+    "flyer_text": "Save $20 off $100+ catering order thru Order Express app, code THANKFUL20, valid until 11/28/26, pickup by 11/29/26, limit 1",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-21",
+    "flyer_text": "$25 off shoprite.com online orders $300+, code TURKEY25, valid thru 11/21/26, limit 1",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-21",
+    "flyer_text": "$20 OFF next shopping order when you purchase $100+ in ANY gift cards with Price Plus card (excl Visa, Mastercard, ShopRite cards), valid 11/15-11/21, redeem 11/22-11/28, limit 1 per customer, in-store only",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
+  },
+  {
+    "end": "2026-11-21",
+    "flyer_text": "Chili Meal Deal (buy 1 Bowl & Basket 85% Lean Ground Turkey 48-oz $9.99, get 5 free, save up to $7.26, limit 1 of each item, limit 1 offer, single transaction with card)",
+    "page_url": "https://www.shoprite.com/sm/planning/rsid/350/circulars",
+    "start": "2026-11-15",
+    "store": "ShopRite of Vernon at Tri City Plaza"
   }
 ]
