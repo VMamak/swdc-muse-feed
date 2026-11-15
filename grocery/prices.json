@@ -5678,7 +5678,7 @@
         }
       ],
       "variant_group": [
-        "Locally Grown Green Cabbage"
+        "Cabbage"
       ]
     },
     {
@@ -29743,6 +29743,446 @@
       "variant_group": [
         "Slicing Swiss, Store Sliced"
       ]
+    },
+    {
+      "category": "Produce",
+      "name": "Lime",
+      "notes": "",
+      "regular_price": null,
+      "size": "",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "5 for $1",
+          "price": 0.2,
+          "start": "2026-11-13",
+          "unit": "each"
+        }
+      ],
+      "variant_group": [
+        "Limes"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Green Cabbage",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.59/lb",
+          "price": 0.59,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Cabbage"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Loose Carrot",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.59/lb",
+          "price": 0.59,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Carrots"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Loose Yellow Onion",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.79/lb",
+          "price": 0.79,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Onions"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Fresh Beet (Loose)",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.79/lb",
+          "price": 0.79,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Beets"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Green Papaya",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Papaya"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Cut Wintermelon",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Wintermelon"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Snake Gourd",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Snake Gourd"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Loose Red Onion",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Onions"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Fresh Purple Turnip",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Turnips"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Cortland Apple",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Apples"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Green Squash",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Squash"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Grey Squash",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$0.99/lb",
+          "price": 0.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Squash"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Dosakai",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.29/lb",
+          "price": 1.29,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Dosakai"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "POI Leaves",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.49/lb",
+          "price": 1.49,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "POI Leaves"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Indian Long Squash",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.49/lb",
+          "price": 1.49,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Indian Long Squash"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Big Eggplant",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.49/lb",
+          "price": 1.49,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Eggplant"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Organic Ginger",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.49/lb",
+          "price": 1.49,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Ginger"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Green Small Chilli",
+      "notes": "",
+      "regular_price": null,
+      "size": "per lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "$1.99/lb",
+          "price": 1.99,
+          "start": "2026-11-13",
+          "unit": "lb"
+        }
+      ],
+      "variant_group": [
+        "Chillies"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Fresh Methi Bunch",
+      "notes": "",
+      "regular_price": null,
+      "size": "",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "2 for $3",
+          "price": 1.5,
+          "start": "2026-11-13",
+          "unit": "each"
+        }
+      ],
+      "variant_group": [
+        "Methi"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Fresh Spinach Bunch",
+      "notes": "",
+      "regular_price": null,
+      "size": "",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "2 for $5",
+          "price": 2.5,
+          "start": "2026-11-13",
+          "unit": "each"
+        }
+      ],
+      "variant_group": [
+        "Cooking Greens or Spinach"
+      ]
+    },
+    {
+      "category": "Produce",
+      "name": "Idaho Potato (5 lb)",
+      "notes": "",
+      "regular_price": null,
+      "size": "5 lb",
+      "store": "apna-bazar",
+      "tiers": [
+        {
+          "end": "2026-11-15",
+          "flyer_text": "2 for $6",
+          "price": 3.0,
+          "start": "2026-11-13",
+          "unit": "each"
+        }
+      ],
+      "variant_group": [
+        "Potatoes"
+      ]
     }
   ],
   "stores": {
@@ -29753,6 +30193,14 @@
       "location": "200 Gateway Blvd, South Windsor CT",
       "loyalty": null,
       "name": "Aldi"
+    },
+    "apna-bazar": {
+      "flyer_end": "2026-11-15",
+      "flyer_start": "2026-11-13",
+      "flyer_weekday_start": "Friday",
+      "location": "265 Ellington Rd, East Hartford, CT",
+      "loyalty": null,
+      "name": "Apna Bazar"
     },
     "bigy": {
       "flyer_end": "2026-11-18",
