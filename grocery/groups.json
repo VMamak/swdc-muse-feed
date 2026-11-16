@@ -162,6 +162,18 @@
     "title": "Apple Juice"
   },
   {
+    "category": "Bakery",
+    "key": "family-size-apple-pie",
+    "replaced_by": "",
+    "title": "Apple Pie"
+  },
+  {
+    "category": "Bakery",
+    "key": "party-size-apple-blueberry-and-cherry-lattice-pie",
+    "replaced_by": "",
+    "title": "Apple, Blueberry and Cherry Lattice Pie"
+  },
+  {
     "category": "Frozen",
     "key": "applegate-organic-grilled-strips",
     "replaced_by": "",
@@ -724,12 +736,6 @@
     "key": "cereal-cup",
     "replaced_by": "",
     "title": "Cereal Cup"
-  },
-  {
-    "category": "Pantry",
-    "key": "cereal-medium-size",
-    "replaced_by": "",
-    "title": "Cereal Medium Size"
   },
   {
     "category": "Bakery",
@@ -1627,48 +1633,6 @@
   },
   {
     "category": "Frozen",
-    "key": "family-entr-e",
-    "replaced_by": "",
-    "title": "Family Entrée"
-  },
-  {
-    "category": "Bakery",
-    "key": "family-size-apple-pie",
-    "replaced_by": "",
-    "title": "Family Size Apple Pie"
-  },
-  {
-    "category": "Pantry",
-    "key": "family-size-mash-roasted-garlic",
-    "replaced_by": "",
-    "title": "Family Size Mash, Roasted Garlic"
-  },
-  {
-    "category": "Pantry",
-    "key": "family-size-mashed-pouch-buttery",
-    "replaced_by": "",
-    "title": "Family Size Mashed Pouch, Buttery"
-  },
-  {
-    "category": "Frozen",
-    "key": "family-size-meal",
-    "replaced_by": "",
-    "title": "Family Size Meal"
-  },
-  {
-    "category": "Snacks",
-    "key": "family-size-oreo-chips-ahoy-or-crackers",
-    "replaced_by": "",
-    "title": "Family Size Oreo, Chips Ahoy or Crackers"
-  },
-  {
-    "category": "Meat",
-    "key": "family-sized-slow-cooker-beef-roast-with-vegetables",
-    "replaced_by": "",
-    "title": "Family Sized Slow Cooker Beef Roast with Vegetables"
-  },
-  {
-    "category": "Frozen",
     "key": "fatboy-ice-cream-novelties",
     "replaced_by": "",
     "title": "FatBoy Ice Cream Novelties"
@@ -1690,6 +1654,12 @@
     "key": "filled-pasta",
     "replaced_by": "",
     "title": "Filled Pasta"
+  },
+  {
+    "category": "Pantry",
+    "key": "royal-flan-mix-family-size",
+    "replaced_by": "",
+    "title": "Flan Mix"
   },
   {
     "category": "Meat",
@@ -1822,12 +1792,6 @@
     "key": "fries",
     "replaced_by": "",
     "title": "Fries"
-  },
-  {
-    "category": "Snacks",
-    "key": "frito-lay-party-size-snacks",
-    "replaced_by": "",
-    "title": "Frito Lay Party Size Snacks"
   },
   {
     "category": "Beverages",
@@ -2604,12 +2568,6 @@
     "title": "Large Side Dish"
   },
   {
-    "category": "Pantry",
-    "key": "large-size-cereal",
-    "replaced_by": "",
-    "title": "Large Size Cereal"
-  },
-  {
     "category": "Seafood",
     "key": "large-snow-crab-clusters",
     "replaced_by": "",
@@ -2832,6 +2790,12 @@
     "title": "Mascarpone"
   },
   {
+    "category": "Pantry",
+    "key": "family-size-mash-roasted-garlic",
+    "replaced_by": "",
+    "title": "Mash, Roasted Garlic"
+  },
+  {
     "category": "Prepared",
     "key": "mashed-potatoes",
     "replaced_by": "",
@@ -2842,6 +2806,12 @@
     "key": "mashed-potatoes-heat-eat",
     "replaced_by": "",
     "title": "Mashed Potatoes Heat & Eat"
+  },
+  {
+    "category": "Pantry",
+    "key": "family-size-mashed-pouch-buttery",
+    "replaced_by": "",
+    "title": "Mashed Pouch, Buttery"
   },
   {
     "category": "Pantry",
@@ -2860,6 +2830,12 @@
     "key": "mccain-french-fries",
     "replaced_by": "",
     "title": "McCain French Fries"
+  },
+  {
+    "category": "Frozen",
+    "key": "family-size-meal",
+    "replaced_by": "",
+    "title": "Meal"
   },
   {
     "category": "Seafood",
@@ -3204,6 +3180,12 @@
     "title": "Orange Juice"
   },
   {
+    "category": "Snacks",
+    "key": "family-size-oreo-chips-ahoy-or-crackers",
+    "replaced_by": "",
+    "title": "Oreo, Chips Ahoy or Crackers"
+  },
+  {
     "category": "Dairy",
     "key": "organic-almond-creamer",
     "replaced_by": "",
@@ -3340,12 +3322,6 @@
     "key": "parmesan-wedge",
     "replaced_by": "",
     "title": "Parmesan Wedge"
-  },
-  {
-    "category": "Bakery",
-    "key": "party-size-apple-blueberry-and-cherry-lattice-pie",
-    "replaced_by": "",
-    "title": "Party Size Apple, Blueberry and Cherry Lattice Pie"
   },
   {
     "category": "Snacks",
@@ -4062,12 +4038,6 @@
     "title": "Rotisserie Turkey Tenderloin"
   },
   {
-    "category": "Pantry",
-    "key": "royal-flan-mix-family-size",
-    "replaced_by": "",
-    "title": "Royal Flan Mix, Family Size"
-  },
-  {
     "category": "Snacks",
     "key": "rustic-bakery-flatbread-crackers",
     "replaced_by": "",
@@ -4366,6 +4336,12 @@
     "key": "slicing-swiss-store-sliced",
     "replaced_by": "",
     "title": "Slicing Swiss, Store Sliced"
+  },
+  {
+    "category": "Meat",
+    "key": "family-sized-slow-cooker-beef-roast-with-vegetables",
+    "replaced_by": "",
+    "title": "Slow Cooker Beef Roast with Vegetables"
   },
   {
     "category": "Meat",
@@ -5554,5 +5530,29 @@
     "key": "writing-icing-4-count",
     "replaced_by": "writing-icing",
     "title": "Writing Icing - 4 Count"
+  },
+  {
+    "category": "Pantry",
+    "key": "cereal-medium-size",
+    "replaced_by": "cereal",
+    "title": "Cereal Medium Size"
+  },
+  {
+    "category": "Frozen",
+    "key": "family-entr-e",
+    "replaced_by": "entr-e",
+    "title": "Family Entrée"
+  },
+  {
+    "category": "Snacks",
+    "key": "frito-lay-party-size-snacks",
+    "replaced_by": "chips",
+    "title": "Frito Lay Party Size Snacks"
+  },
+  {
+    "category": "Pantry",
+    "key": "large-size-cereal",
+    "replaced_by": "cereal",
+    "title": "Large Size Cereal"
   }
 ]
